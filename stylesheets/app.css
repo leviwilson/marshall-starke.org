@@ -1,11 +1,11 @@
 #banner {
-  background-image: url(/images/bg.gif);
+  background-image: url(../images/bg.gif);
   background-repeat:  repeat-x;
 }
 
-#navvvv { 
+#nav { 
   height: 25px;
-  background-image: url(/images/nav_bg.gif);
+  background-image: url(../images/nav_bg.gif);
   background-repeat:  repeat-x;
 }
 
