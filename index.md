@@ -2,11 +2,8 @@
 layout: default
 title:  Home
 ---
-## Mission Statement
 ### Mission
 > <p>To train, educate and advocate</p>
-
-
 
 > <p>to empower families and individuals to reach their potential</p>
 
