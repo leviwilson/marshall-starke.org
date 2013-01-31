@@ -12,6 +12,9 @@
   background: url(../images/navbg.gif) repeat-x bottom;
 }
 
+/* same as foundation */
+ul { margin-left: 17px; }
+
 /* Artfully masterminded by ZURB  */
 /*  
 Sticky Footer Solution
