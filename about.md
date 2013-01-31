@@ -2,10 +2,10 @@
 layout: default
 title:  About Us
 ---
-#### About Us
+## About Us
 Marshall-Starke Development Center, Inc. (MSDC) is a Not-for-Profit organization providing comprehensive rehabilitive, vocational, and educational services to developmentally disabled individuals. In addition, a child development program is offered to non-disabled and at-risk children residing in Marshall and Starke Counties.
 
-#### History
+### History
 Marshall-Starke Development Center, Inc. was formed in 1965 by a small group of concerned and dedicated individuals striving to plan how to provide services and programs for the disadvantaged. Most of these individuals were themselves parents of children with a disability. With the help of the community and corporations, a building fund was established. In October of 1976, Marshall-Starke Development Center opened at 1901 PIDCO Drive in Plymouth.
 
 In 1984, we made application to the federal government to serve as grantee for Head Start in Marshall and Starke counties. We continue today to sponsor Head Start, allowing economically disadvantaged children to receive early childhood education and ancillary services in both counties.

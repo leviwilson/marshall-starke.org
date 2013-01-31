@@ -2,8 +2,10 @@
 layout: default
 title:  Contacts
 ---
-## Contact Us
-For more information or questions, please contact us by phone or email us at [msdc@marshall-starke.org](mailto:msdc@marshall-starke.org)
+<div class="twelve columns">
+  <h2>Contact Us</h2>
+  For more information or questions, please contact us by phone or email us at <a href="mailto:msdc@marshall-starke.org">msdc@marshall-starke.org</a>.
+</div>
 
 <div class="six columns">  
   <h3>Adult Program Locations</h3>
