@@ -14,5 +14,4 @@ Each morning and afternoon individuals are offered a list of activities from whi
 ### Skills Learned
 Whether services are delivered in the community or in the facility, Marshall-Starke is a large part of the lives of adults with disabilities. Lifelong friendships with peers are made, and positive connections with staff and others in the community are developed. Individuals learn skills, earn money, give back to communities, and develop positive self-worth.
 
-#### Links
-*  [Adult Services](/services/adult.html)
+{% include adult.links %}
