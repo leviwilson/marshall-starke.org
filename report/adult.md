@@ -31,3 +31,70 @@ being, daily living training, and many other options that promote personal growt
 Pre-vocational activities allow program participants to earn a paycheck. Participants are able to train
 in comfortable, familiar surroundings while building skills to gain greater progress towards community
 employment.
+
+<h4 class="subheader">SUPPORTED LIVING</h4>
+
+*  17 Served
+*  99% Met Objectives
+*  100% Satisfied with Services
+
+Supported Living has a lively group of people. They are interested in experiencing a variety of activities
+and enjoy each other’s company. They love big parties, such as the B100 Birthday Bash, Maxinkuckee
+Lake Festival, Blueberry Festival, North Judson Mint Festival, and Yellow River Festival……party on!
+
+Supported Living consumers particularly enjoy the weekend camping trip at Lake Mississinewa in Peru,
+Indiana. Cooking and telling stories around the campfire can’t be beat! Hiking, fishing and rooming
+together in cabins with your friends is an event to look forward to each summer.
+
+Our consumers also like to spend time with each other, while forming committees to make party
+decisions like what to eat, what music to bring, who will decorate, who will be in charge of games. If we
+can’t find an activity, we will make one.
+
+One of our consumers had the opportunity to attend a Notre Dame Football home game this summer.
+He said he had wanted to do this his whole life. He is 63 years old and made his dream a reality. What a
+great year to attend a Notre Dame game.
+
+<h4 class="subheader">INDUSTRIAL SERVICES</h4>
+
+The focus of programming for individuals enrolled in our Industrial Track is to prepare for community employment.  Individuals work on increasing their productivity, building stamina, developing efficient and effective work methods, and learning the importance of following safety rules.
+
+The work provided in the Industrial Track requires the use of saws, staple guns, and other power machine and tools to produce wooden window blocks for the RV industry, and plywood reels for wire companies.
+
+Because of numerous skill levels, we also try to offer a variety of jobs including, packaging, heat sealing, paper shredding, and labeling.  This line of work is offered both at the Marshall-Starke and Manitou centers.
+
+<h5 class="subheader">Points of Interest</h5>
+*  22 Individuals enrolled 
+*  4 Individuals placed in community jobs
+*  82% met their objectives
+*  98% satisfied with our services
+*  100% production accuracy
+
+<h5 class="subheader">Industrial Customers</h5>
+<div class="twelve columns">
+  <div class="six columns">
+    <ul>
+      <li>Air Vac</li>
+      <li>BPC Manufacturing</li>
+      <li>Hehr International</li>
+      <li>Bridgewater Tech</li>
+      <li>Material Resources</li>
+      <li>Unified Wire</li>
+      <li>Atwood Mobile Products</li>
+      <li>Dexter Doors</li>
+      <li>Kewanna Screen Printing</li>
+    </ul>
+  </div>
+
+  <div class="six columns">
+    <ul>
+      <li>Bourbon Plastics</li>
+      <li>Fun Coins</li>
+      <li>Advance Electric</li>
+      <li>Chore Time</li>
+      <li>Ristance</li>
+      <li>Industrial Wire</li>
+      <li>Coleman Cable</li>
+      <li>Sigma Wire</li>
+    </ul>
+  </div>
+</div>
