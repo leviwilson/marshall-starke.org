@@ -98,3 +98,30 @@ Because of numerous skill levels, we also try to offer a variety of jobs includi
     </ul>
   </div>
 </div>
+
+<h4 class="subheader">COMMUNITY EMPLOYMENT SERVICES</h4>
+
+*  78 Served
+*  96% Met Objectives
+*  100% Satisfied with Services 
+
+There were 15 individuals placed in competitive employment over the last year. Of those, 13 held
+their jobs to Vocational Rehabilitation successful closure. Of the 15 placements, 9 established new
+partnerships with the following businesses:
+
+*  Hickory Creek Nursing Home _(Winamac)_
+*  Zentis _(Plymouth)_
+*  P & H Machinery _(Walkerton)_
+*  CorPak _(Plymouth)_
+*  Sayer Computers _(Dyer)_
+*  Jarriety’s _(Rochester)_
+*  Wappel Farms _(Knox)_
+*  Argos Schools _(Argos)_
+*  Knox Chamber of Commerce _(Knox)_
+
+After a referral is made to MSDC, the average time to develop a person’s Plan for Employment and
+to begin the job search was 40 days. Of the 13 jobs secured and completing successful VR closure,
+the average number of hours worked per week was 30, while the average hourly pay was $10.38. Six
+individuals (46%) have medical insurance through the employer. The average length of time from when
+MSDC received an individual’s referral and when an individual’s case was successfully closed was 17
+months.
