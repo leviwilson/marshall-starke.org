@@ -1,0 +1,54 @@
+<div id="crossroads-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+    var chart;
+    $(document).ready(function() {
+        chart = new Highcharts.Chart({
+            chart: {
+                renderTo: 'crossroads-container',
+                type: 'column'
+            },
+            title: {
+                text: 'Community Crossroads'
+            },
+            subtitle: {
+                text: 'individuals served by age'
+            },
+            legend: {
+                enabled: false
+            },
+            xAxis: {
+                categories: [
+                    "80s", "70s", "60s", "50s", "40s", "30s", "Teens - 20s"
+                ]
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Individuals Served'
+                }
+            },
+            tooltip: {
+                formatter: function() {
+                    return ''+
+                        this.x +': '+ this.y + ' served';
+                }
+            },
+            plotOptions: {
+                column: {
+                    pointPadding: 0.2,
+                    borderWidth: 0
+                }
+            },
+            series: [{
+                data: [5, 10, 22, 27, 24, 45, 18]
+    
+            }]
+        });
+    });
+    
+});
+</script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
