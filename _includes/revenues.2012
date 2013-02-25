@@ -1,4 +1,4 @@
-<div id="container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+<div id="revenues-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
 
 <script type="text/javascript">
 $(function () {
@@ -9,13 +9,13 @@ $(document).ready(function () {
   // Build the chart
     chart = new Highcharts.Chart({
         chart: {
-            renderTo: 'container',
+            renderTo: 'revenues-container',
             plotBackgroundColor: null,
             plotBorderWidth: null,
             plotShadow: false
         },
         title: {
-            text: 'Browser market shares at a specific website, 2010'
+            text: '2012 Revenues'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
