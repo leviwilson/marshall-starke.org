@@ -5,7 +5,14 @@ title:  "2012 Accomplishments (Adults)"
 
 ## Adult Programs
 
-<h4 class="subheader">COMMUNITY CROSSROADS</h4>
+<dl class="tabs pill">
+  <dd><a href="#crossroads">Community Crossroads</a></dd>
+  <dd><a href="#supported">Supported Living</a></dd>
+  <dd><a href="#industrial">Industrial Services</a></dd>
+  <dd><a href="#employment">Community Employment</a></dd>
+</dl>
+
+<h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 
 *  151 Served
 *  85% Met Objectives
@@ -32,7 +39,7 @@ Pre-vocational activities allow program participants to earn a paycheck. Partici
 in comfortable, familiar surroundings while building skills to gain greater progress towards community
 employment.
 
-<h4 class="subheader">SUPPORTED LIVING</h4>
+<h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
 
 *  17 Served
 *  99% Met Objectives
@@ -54,7 +61,7 @@ One of our consumers had the opportunity to attend a Notre Dame Football home ga
 He said he had wanted to do this his whole life. He is 63 years old and made his dream a reality. What a
 great year to attend a Notre Dame game.
 
-<h4 class="subheader">INDUSTRIAL SERVICES</h4>
+<h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
 
 The focus of programming for individuals enrolled in our Industrial Track is to prepare for community employment.  Individuals work on increasing their productivity, building stamina, developing efficient and effective work methods, and learning the importance of following safety rules.
 
@@ -99,7 +106,7 @@ Because of numerous skill levels, we also try to offer a variety of jobs includi
   </div>
 </div>
 
-<h4 class="subheader">COMMUNITY EMPLOYMENT SERVICES</h4>
+<h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
 
 *  78 Served
 *  96% Met Objectives
