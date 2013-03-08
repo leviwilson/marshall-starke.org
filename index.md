@@ -24,3 +24,5 @@ Beginning in 1965, Marshall-Starke provided a wide range of rehabilitative servi
 From these modest beginnings, Marshall-Starke branched into early childhood education for non-disabled and at-risk children through our Head Start, Early Head Start, and Healthy Families programs.
 
 The programs and services offered through Marshall-Starke and recognized by national accreditations, such as CARF and NAEYC, substantiate what recipients of our services have known for over 40 years that Marshall-Starke promotes a culture of compassion and a commitment to accountability.
+
+{% include accreditations %}
