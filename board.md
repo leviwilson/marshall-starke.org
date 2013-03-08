@@ -6,21 +6,22 @@ title:  Board & Management
   <h2>Board of Directors &amp; Management Team</h2>
 </div>
 
+
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Board</h3>
   <ul>
     <li>Todd Zeltwanger, Chairman</li>
     <li>James Clevenger, Vice Chairman</li>
-    <li>Rick Tompos, Treasurer</li>
-    <li>Dennis Beville, Secretary</li>
-    <li>Melanie Roberts</li>
+    <li>Beth Sawyer, Treasurer</li>
+    <li>Susan Ellert, Secretary</li>
+    <li>Melanie Robertson</li>
+    <li>John Oliver</li>
     <li>Rick Miller</li>
     <li>James Cheesman</li>
     <li>Terry Moore</li>
     <li>Flora Tibbetts</li>
     <li>Michael McBride</li>
     <li>David Pearman</li>
-    <li>Susan Ellert</li>
   </ul>
 </div>
 
