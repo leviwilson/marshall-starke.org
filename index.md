@@ -25,4 +25,6 @@ From these modest beginnings, Marshall-Starke branched into early childhood educ
 
 The programs and services offered through Marshall-Starke and recognized by national accreditations, such as CARF and NAEYC, substantiate what recipients of our services have known for over 40 years that Marshall-Starke promotes a culture of compassion and a commitment to accountability.
 
+{% include annual.report %}
+
 {% include accreditations %}
