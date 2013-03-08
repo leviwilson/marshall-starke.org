@@ -2,6 +2,7 @@
 layout: default
 title:  "2012 Accomplishments (Adults)"
 ---
+{% include annual.report.breadcrumb %}
 
 ## Children's Programs: Highlights and Accomplishments
 

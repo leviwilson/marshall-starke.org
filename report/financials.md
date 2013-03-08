@@ -2,6 +2,7 @@
 layout: default
 title:  "2012 Financial Information"
 ---
+{% include annual.report.breadcrumb %}
 
 ## 2012 Financial Information
 
