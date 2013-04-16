@@ -29,7 +29,6 @@ title:  Board & Management
   <h3 class="subheader">Marshall-Starke Management</h3>
   <ul>
     <li>Michael Lintner, President/C.E.O.</li>
-    <li>Marilyn Felger, Executive Vice President/C.O.O.</li>
     <li>Dan Haenes, Vice President/C.F.O.</li>
     <li>Jane Pollitt, Vice President Children's Programs</li>
     <li>Christie Rice, Vice President Industrial Operations</li>
