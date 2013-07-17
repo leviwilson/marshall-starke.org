@@ -30,3 +30,4 @@ Contributions directly to Marshall-Starke or to our Endowment Fund are tax deduc
   &nbsp;
 </div>
 * Marshall-Starke is pleased to announce the award of $8800.00 from Marshall County Community Foundation.  We will replace carpet in the conference room, a classroom and staff breakroom.
+
