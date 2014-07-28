@@ -98,12 +98,28 @@ musicals, concerts; went fishing, cooked out, celebrated birthdays and holidays.
 party and New Year's Eve party. 
 
 <h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
+The focus of programming for individuals enrolled in our Industrial Track is to prepare for community employment. Individuals work 
+on increasing their productivity, building stamina, developing efficient and effective work methods and learning the importance of 
+following safety rules. 
 
-The focus of programming for individuals enrolled in our Industrial Track is to prepare for community employment.  Individuals work on increasing their productivity, building stamina, developing efficient and effective work methods, and learning the importance of following safety rules.
+The work provided in the Industrial Track requires the use of saws, staple guns and other powered machines and tools to produce 
+wooden window blocks for the RV industry and plywood reels for wire companies. 
 
-The work provided in the Industrial Track requires the use of saws, staple guns, and other power machine and tools to produce wooden window blocks for the RV industry, and plywood reels for wire companies.
+Because of numerous skills level, we also try to offer a variety of jobs including packaging, head scaling, paper shredding and 
+labeling. This line of work is offered both at MSDC and Manitou Center. 
 
-Because of numerous skill levels, we also try to offer a variety of jobs including, packaging, heat sealing, paper shredding, and labeling.  This line of work is offered both at the Marshall-Starke and Manitou centers.
+##### Industrial Consumers
+*  BPC Manufacturing 
+*  Bridgewater Tec 
+*  Chore Time 
+*  Hehr International 
+*  Material Resources 
+*  Atwood Mobile Products 
+*  Dexter Doors 
+*  Ristance 
+*  Fun Coin 
+*  Advance Electric 
+*  Rochester Homes 
 
 <h5 class="subheader">Points of Interest</h5>
 *  22 Individuals enrolled 
