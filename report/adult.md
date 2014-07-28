@@ -73,26 +73,29 @@ in comfortable, familiar surroundings while building skills to gain greater prog
 employment.
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
+The Supported Living Program added three new consumers. 
 
-*  17 Served
-*  99% Met Objectives
-*  100% Satisfied with Services
+Kent came to us in July 2013 and agreed to live in a two bedroom home with another consumer. 
 
-Supported Living has a lively group of people. They are interested in experiencing a variety of activities
-and enjoy each other’s company. They love big parties, such as the B100 Birthday Bash, Maxinkuckee
-Lake Festival, Blueberry Festival, North Judson Mint Festival, and Yellow River Festival……party on!
+In May 2013, one of the Supported Living landlords began to build a new home to rent to our newest incoming consumers. The home 
+is four bedrooms, 2 baths and is handicap accessible for the currrent wheelchari consumer. The new home has an attached garage 
+and is in the city limits. The home was to be completed July 2013 but had serveral delays. When the home was completed in 
+September, three Casc Managers inspected the home with the consumer guardians and requested some changes. The changes were made 
+and we moved in on October 1st, 2013. In this home are two long time consumers and two new consumers, Joe and Andy. The new 
+families are very pleased with MSDC services. 
 
-Supported Living consumers particularly enjoy the weekend camping trip at Lake Mississinewa in Peru,
-Indiana. Cooking and telling stories around the campfire can’t be beat! Hiking, fishing and rooming
-together in cabins with your friends is an event to look forward to each summer.
+Our current total of consumers for Supported Living is twenty. 
 
-Our consumers also like to spend time with each other, while forming committees to make party
-decisions like what to eat, what music to bring, who will decorate, who will be in charge of games. If we
-can’t find an activity, we will make one.
+In August 2013, Supported Living attended our Annual Camping trip to Lake Mississinewa in Peru, Indiana. As usual, everyone had 
+a memorable time. 
 
-One of our consumers had the opportunity to attend a Notre Dame Football home game this summer.
-He said he had wanted to do this his whole life. He is 63 years old and made his dream a reality. What a
-great year to attend a Notre Dame game.
+In September our Supported Living consumers attended a camp at Tippecanoe State Park in Winamac. It was unseasonably hot for 
+September, but it didn't seem to affect consumers. All had a fun time. 
+
+The highlights of our year are always parties! We went to the B100 Music Festival, the Blueberry Festival, Special Olympics fall 
+dance, MSDC fall dance, Harvest Ball, Karaoke at the VFW, train rides in North Judson and the Blue Chip Casino. We attended plays, 
+musicals, concerts; went fishing, cooked out, celebrated birthdays and holidays. We ended the year with a Residential Christmas 
+party and New Year's Eve party. 
 
 <h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
 
