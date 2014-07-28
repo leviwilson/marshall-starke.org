@@ -12,6 +12,7 @@ title:  "2012 Accomplishments (Adults)"
   <dd><a href="#employment">Community Employment</a></dd>
 </dl>
 
+<h4 class="subheader">OVERVIEW</h4>
 Fiscal year 2013 was a load of fun! We stayed busy throughout the year, filling up our days with fun activities and learning 
 opportunities. Some of the highlights of the year are always our parties: we had a great time at the annual fall dance, which 
 is always held at the Moose. Our consumers really know how to rock the house! There are many people who help put our parties 
