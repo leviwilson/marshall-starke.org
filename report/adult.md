@@ -7,7 +7,6 @@ title:  "2012 Accomplishments (Adults)"
 ## Adult Programs
 
 <dl class="tabs pill">
-  <dd><a href="#crossroads">Community Crossroads</a></dd>
   <dd><a href="#supported">Supported Living</a></dd>
   <dd><a href="#industrial">Industrial Services</a></dd>
   <dd><a href="#employment">Community Employment</a></dd>
@@ -44,33 +43,6 @@ useful in consumer meetings.
 As the year moved along, our attendance was up and down, we lost a few and gained a few consumers. Many consumers began receiving 
 PAC and Respite in their plans. They have very much enjoyed evening and weekend activities of their choice with some of their 
 favorite people: our wonderful staff! 
-
-<h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
-
-*  151 Served
-*  85% Met Objectives
-*  96% Satisfied with Services
-
-The Community Crossroads program offers options and choices to program participants. Options
-include Community based groups, facility based groups and pre-vocational activities. One of the
-challenges we face is matching an individual’s needs and interests to programming. Complicating this
-is the wide range of ages we serve. This graph shows the number of individuals served in Community
-Crossroads by age.
-
-{% include community_crossroad.stats %}
-
-Community based groups are ideal for those who seek variety and opportunities in the community.
-Groups offer volunteer work, recreational activities and social interaction with co-workers as well as
-community patrons. This program promotes development of skills and interests as participants gain
-greater independence.
-
-Facility based groups focus on training with individuals in personal strengths, needs and interests.
-Options include academic instruction, volunteer opportunities, groups that focus on health and well-
-being, daily living training, and many other options that promote personal growth and independence.
-
-Pre-vocational activities allow program participants to earn a paycheck. Participants are able to train
-in comfortable, familiar surroundings while building skills to gain greater progress towards community
-employment.
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
 The Supported Living Program added three new consumers. 
