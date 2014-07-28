@@ -122,28 +122,21 @@ labeling. This line of work is offered both at MSDC and Manitou Center.
 *  Rochester Homes 
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
+There were 15 individuals placed in competitive employment over the last year. Of those, 15 held their jobs to Vocational 
+Rehabilitation successful closure. Of the 15 placements, 10 established new partnerships with the following businesses: 
 
-*  78 Served
-*  96% Met Objectives
-*  100% Satisfied with Services 
+*  Country Roads (_Walkerton_)
+*  Temp Rite (_Plymouth_)
+*  Topps (_Argos_)
+*  Burger King (_Wanatah_)
+*  Memorial Home Health (_South Bend_)
+*  England Trucking (_South Bend_)
+*  L & B Country Store (_Monterey_)
+*  Specialty Furniture (_Knox_)
+*  County Line Landfill (_Rochester_)
+*  Heinold's (_LaPorte_)
 
-There were 15 individuals placed in competitive employment over the last year. Of those, 13 held
-their jobs to Vocational Rehabilitation successful closure. Of the 15 placements, 9 established new
-partnerships with the following businesses:
+After a referral is made to MSDC, the average time to develop a person's Play for Employment and to begin the job search was 28 
+days. Of the 15 jobs secure and completing successful VR closure, the average number of hours worked per week was 27, while the 
+average hourly pay was $9.09. When surveyed, 100% of the 64 individuals served this fiscal year were satisfied with services. 
 
-*  Hickory Creek Nursing Home _(Winamac)_
-*  Zentis _(Plymouth)_
-*  P & H Machinery _(Walkerton)_
-*  CorPak _(Plymouth)_
-*  Sayer Computers _(Dyer)_
-*  Jarriety’s _(Rochester)_
-*  Wappel Farms _(Knox)_
-*  Argos Schools _(Argos)_
-*  Knox Chamber of Commerce _(Knox)_
-
-After a referral is made to MSDC, the average time to develop a person’s Plan for Employment and
-to begin the job search was 40 days. Of the 13 jobs secured and completing successful VR closure,
-the average number of hours worked per week was 30, while the average hourly pay was $10.38. Six
-individuals (46%) have medical insurance through the employer. The average length of time from when
-MSDC received an individual’s referral and when an individual’s case was successfully closed was 17
-months.
