@@ -13,6 +13,38 @@ title:  "2012 Accomplishments (Adults)"
   <dd><a href="#employment">Community Employment</a></dd>
 </dl>
 
+Fiscal year 2013 was a load of fun! We stayed busy throughout the year, filling up our days with fun activities and learning 
+opportunities. Some of the highlights of the year are always our parties: we had a great time at the annual fall dance, which 
+is always held at the Moose. Our consumers really know how to rock the house! There are many people who help put our parties 
+together, consumers, staff and donors. Our Group Community activities typically change in the fall as we start volunteering for 
+St. Thomas Head Start, as well as Plymouth Head Start. We also visited the Yellow River Farms for a hayride and choosing pumpkins. 
+The fall activities continue as we carve pumpkins and roasted seeds in facility based groups. Other facility based groups include 
+such activities as cooking groups, trivia groups, computer classes, academic groups, art groups, board games, and many others 
+too numerous to mention. Many consumers will have objectives in the facility based groups they choose, but often consumers will 
+participate in groups that are not connected with their objective and learn many skills in groups in addition to their current 
+objectives. Opportunities to improve socialization skills are often a part of group facility training. Consumers are constantly 
+making new friendships and maintaining old friendships with one another. 
+
+The Christmas Holidays came and went quickly as it often does! Our consumers participate in a variety of Community and Facility 
+Groups. We made a few visits out to Hensler's Christmas Tree Farm to sample their hot chocolate and their hospitality!  
+
+The wintery days of January and February were consumed with our regular community outings such as Computer 101 at the Plymouth 
+Public Library and water walking at the YMCA in Warsaw to name a few.  
+
+Spring finally arrived and we purchased our annual passes to the State Parks, Price's Pond and Warsaw YMCA, gearing up for camping, 
+trail walking, swimming activities, and of course swimming indoors and out. Also, meeting for our first camp-out began commencing 
+monthly. If we only knew then what we know now. We attended two Silver Hawks games this spring, which many of our folks enjoyed. 
+Also, working our way into warmer weather we enjoyed a couple of group outings to Potawatomi Zoo as well as attending the annual 
+Pathfinder's Talent Show. In May, we celebrated again at the Moose Lodge for our annual prom. It was a great success, as usual. 
+This sprint we received an award from 1st Source Bank, which we used to purchase a new stove and microwave for our kitchen. We also 
+began to implement the new "piece" of our Vertex Intuition Tracking System for goals, streamlining and modernizing our documentation 
+for consumer objectives. With the addition of this new program, we are able to print out some really great reports that are very 
+useful in consumer meetings. 
+
+As the year moved along, our attendance was up and down, we lost a few and gained a few consumers. Many consumers began receiving 
+PAC and Respite in their plans. They have very much enjoyed evening and weekend activities of their choice with some of their 
+favorite people: our wonderful staff! 
+
 <h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 
 *  151 Served
