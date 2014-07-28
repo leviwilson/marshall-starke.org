@@ -108,9 +108,9 @@ wooden window blocks for the RV industry and plywood reels for wire companies.
 Because of numerous skills level, we also try to offer a variety of jobs including packaging, head scaling, paper shredding and 
 labeling. This line of work is offered both at MSDC and Manitou Center. 
 
-##### Industrial Consumers
+<h5 class="subheader">Industrial Customers</h5>
 *  BPC Manufacturing 
-*  Bridgewater Tec 
+*  Bridgewater Tech
 *  Chore Time 
 *  Hehr International 
 *  Material Resources 
@@ -120,43 +120,6 @@ labeling. This line of work is offered both at MSDC and Manitou Center.
 *  Fun Coin 
 *  Advance Electric 
 *  Rochester Homes 
-
-<h5 class="subheader">Points of Interest</h5>
-*  22 Individuals enrolled 
-*  4 Individuals placed in community jobs
-*  82% met their objectives
-*  98% satisfied with our services
-*  100% production accuracy
-
-<h5 class="subheader">Industrial Customers</h5>
-<div class="twelve columns">
-  <div class="six columns">
-    <ul>
-      <li>Air Vac</li>
-      <li>BPC Manufacturing</li>
-      <li>Hehr International</li>
-      <li>Bridgewater Tech</li>
-      <li>Material Resources</li>
-      <li>Unified Wire</li>
-      <li>Atwood Mobile Products</li>
-      <li>Dexter Doors</li>
-      <li>Kewanna Screen Printing</li>
-    </ul>
-  </div>
-
-  <div class="six columns">
-    <ul>
-      <li>Bourbon Plastics</li>
-      <li>Fun Coins</li>
-      <li>Advance Electric</li>
-      <li>Chore Time</li>
-      <li>Ristance</li>
-      <li>Industrial Wire</li>
-      <li>Coleman Cable</li>
-      <li>Sigma Wire</li>
-    </ul>
-  </div>
-</div>
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
 
