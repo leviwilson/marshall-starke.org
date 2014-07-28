@@ -196,7 +196,7 @@ Additionally, 100% of the Head Start children eligible for entry into kindergart
 </table>
 
 <h4 class="subheader">PARENT EDUCATION</h4>
-Twenty-four (24%) of the Head Start families did not have a parent who graduated form high school. Thirty-three (33%) of the 
+Twenty-four (24%) of the Head Start families did not have a parent who graduated from high school. Thirty-three (33%) of the 
 Early Head Start families did not ahve a parent who graduated from high school. 
 
 <h5 class="subheader">PARENT &amp; COMMUNITY VOLUNTEERS</h5>
