@@ -141,7 +141,19 @@ Additionally, 100% of the Head Start children eligible for entry into kindergart
       <td>95</td>
       <td>23</td>
     </tr>
-    <tr><td><strong>Employment (At Time of Enrollment)</strong></td></tr>
+  </tbody>
+</table>
+
+<h5 class="subheader">EMPLOYMENT (At Time of Enrollment)</h5>
+<table>
+  <thead>
+    <tr>
+      <th>Indicators</th>
+      <th>Head Start</th>
+      <th>Early Head Start</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td><strong>Number of Two Parent Families with:</strong></td></tr>
     <tr>
       <td>Both Parents Employed</td>
@@ -179,57 +191,6 @@ Additionally, 100% of the Head Start children eligible for entry into kindergart
       <td>Families Receiving SSI Benefits</td>
       <td>17 (7%)</td>
       <td>10 (17.5%)</td>
-    </tr>
-  </tbody>
-</table>
-
-<h5 class="subheader">EMPLOYMENT (At Time of Enrollment)</h5>
-<table>
-  <thead>
-    <tr>
-      <th>Indicators</th>
-      <th>Head Start</th>
-      <th>Early Head Start</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td><strong>Number of Two Parent Families with:</strong></td><tr>
-    <tr>
-      <td>Both Parents Employed</td>
-      <td>18   (19%)</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>One Parent Employed</td>
-      <td>51   (54%)</td>
-      <td>21 (67%)</td>
-    </tr>
-    <tr>
-      <td>Both Parents Not Working</td>
-      <td>25    (26%)</td>
-      <td>10 ( 32%)</td>
-    </tr>
-    <tr><td><strong>Number of Single Parent Families with:</strong></td><tr>
-    <tr>
-      <td>Parent Employed</td>
-      <td>46  ( 51%)</td>
-      <td>7  (28%)</td>
-    </tr>
-    <tr>
-      <td>Parent Not Working</td>
-      <td>44    (48%)</td>
-      <td>18 (72%)</td>
-    </tr>
-    <tr><td><strong>Federal or Other Assistance</strong></td><tr>
-    <tr>
-      <td>Families Receiving TANF Benefits</td>
-      <td>18  (9.7%)</td>
-      <td>8 (14%)</td>
-    </tr>
-    <tr>
-      <td>Families Receiving SSI Benefits</td>
-      <td>11   (5.9%)</td>
-      <td>8 (14%)</td>
     </tr>
   </tbody>
 </table>
