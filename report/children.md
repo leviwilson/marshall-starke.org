@@ -196,7 +196,8 @@ Additionally, 100% of the Head Start children eligible for entry into kindergart
 </table>
 
 <h4 class="subheader">PARENT EDUCATION</h4>
-Twenty two (22%) of the Head Start families did not have a parent who graduated from high school. Thirty eight (38%) of the Early Head Start families did not have a parent who graduated from high school.
+Twenty-four (24%) of the Head Start families did not have a parent who graduated form high school. Thirty-three (33%) of the 
+Early Head Start families did not ahve a parent who graduated from high school. 
 
 <h5 class="subheader">PARENT &amp; COMMUNITY VOLUNTEERS</h5>
 <table class="responsive">
@@ -210,18 +211,34 @@ Twenty two (22%) of the Head Start families did not have a parent who graduated 
   <tbody>
     <tr>
       <td>Parent/Relative</td>
-      <td>308</td>
-      <td>67</td>
+      <td>290</td>
+      <td>68</td>
     </tr>
     <tr>
       <td>Community Volunteers</td>
-      <td>268</td>
-      <td>22</td>
+      <td>190</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
 
 <h4 class="subheader">COMMUNITY CONNECTIONS</h4>
-In 2008 the Marshall Starke Head Start and Early Head Start programs established the Social Services Network in Marshall County.  The Network is composed of community providers and stakeholders who represent the programs and services utilized by eligible Head Start and Early Head Start families. The Network meets quarterly to share information and coordinate efforts to address the needs of local families. The FCS manager facilitates the meetings. The goals are community coordination, advocacy, and maximizing of community resources. Participating community agencies include but are not limited to:  MD Wise, Neighborhood Center, SCAN, Purdue Extension, Single Parent Program, WIC, Real Services, Riverside Schools, Sr. Joseph Regional Medical Center, Plymouth Adult Education, Public Housing Authority and Heminger House.
+In 2008 the Marshall-Starke Head Start and Early Head Start programs established the Social Services Network in Marshall County. 
+The Network is composed of community providers and stakeholders who represent the programs and services utilized by eligible HS and 
+EHS families. The Network meets quarterly to share information and coordinate efforts to address the needs of local families. 
+The FCS manager facilitates the meetings. The goals are community coordination, advocacy and maximizing of community resources. 
+Participating community agencies include but are not limited to: MD Wise, Neighborhood Center, SCAN, Purdue Extension, Single 
+Parent PRogram, WIC, Real Services, Riverside School, St. Joseph Regional Medical Center, Plymouth Adult Education, Public Housing 
+Authority and Heminger House. 
 
-Now in its 10th year, in partnership with the North Central Area Vocational Collaborative, Head Start provides field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. The students receive in-class instruction supplemented with direct vocational experience in Head Start classrooms. Students earn nine transferrable college credits the first year and three additional college credits the second year for a total of 12 college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Class pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is also a considerable valuable in-kind contribution.
+Now in its 11th year in partnership with North Central Area Vocational Collaborative, Head Start provides field experience for 
+junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is 
+available to students attending 10 area high schools. Over 200 students have completed teh Early Childhood Vocational Education Program. 
+
+The students receive in-class instruction supplemented with direct vocational experiance in Head Start classrooms. Students earn 
+nine transferrable college credits the first year and three additional college credits the second year for a total of 12 college 
+credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood 
+Vocational Education Class pursue post secondary education. This partnership affords the students vocational experience in the 
+field of ECE while benefitting HS children with individual attention and interaction. The student volunteer time is also a 
+considerable valuable in-kind contribution.
+
