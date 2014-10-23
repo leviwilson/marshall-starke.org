@@ -11,11 +11,11 @@ title:  Board & Management
   <h3 class="subheader">Marshall-Starke Board</h3>
   <ul>
     <li>Todd Zeltwanger, Chairman</li>
-    <li>James Clevenger, Vice Chairman</li>
+    <li>Susan Ellert, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
-    <li>Susan Ellert, Secretary</li>
+    <li>John Oliver, Secretary</li>
     <li>Melanie Robertson</li>
-    <li>John Oliver</li>
+    <li>Jim Clevenger</li>
     <li>Rick Miller</li>
     <li>James Cheesman</li>
     <li>Terry Moore</li>
