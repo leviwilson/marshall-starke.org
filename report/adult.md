@@ -64,12 +64,12 @@ Community Employment served 64 individuals. Of those 64, 38 were males and 26 we
 * Comfort Keeper (_ Granger_)
 * Post Office (_Plymouth_)
 * Van Guard (_Monon_)
-* Enids Cleaning (_Rochester_)
+* Enid's Cleaning (_Rochester_)
 * Quick Clean (_Plymouth_)
 * Selected Furniture (_Knox_)
 * Starke County Chamber of Commerce (_Knox_)
-* McDonalds (_Walkerton_)
-* OConnor Dell (_North Liberty_)
+* McDonald's (_Walkerton_)
+* O'Connor Dell (_North Liberty_)
 
 After a referral is made to MSDC, the average time to develop a persons plan for Employment and to begin the job search was 50.5 days. The median length of time to get a job is 3.5 months. Of the 11 jobs secured and completing successful Vocational Rehabilitation closure, the average number of hours worked per week was 29 while the average hourly pay was $9.12.
 
