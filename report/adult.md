@@ -19,7 +19,7 @@ TBD
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
 TBD
 
-<h4 class="subheader" id="supported">COMMUNITY CROSSROADS</h4>
+<h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 The Community Crossroads program offers consumers a variety of home and community based services, affording adults opportunities to live, learn, work and play as a vital part of their own community. Our goal is to keep consumers engaged and involved, giving lifetime learning opportunities.
 
 The day program offers consumers the option to earn a paycheck in our PreVocational area as they perform or train for a variety of jobs, as well as teaching appropriate work behaviors that could translate into a community job for a consumer in the future. Group Community activities present options for volunteerism, exercise, leisure activities and other choices. Those activities are reviewed several times each year, allowing for consumer input. Consumers also have the choice to participate in Group Facility activities. A generous variety of Group Facility classes are offered, allowing consumers to choose activities such as cooking, academics, social, leisure and many other meaningful classes. All of our programs are designed to help individuals live richer, more productive lives.
