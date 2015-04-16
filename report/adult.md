@@ -8,78 +8,30 @@ title:  "2014 Accomplishments (Adults)"
 
 <dl class="tabs pill">
   <dd><a href="#supported">Supported Living</a></dd>
+  <dd><a href="#crossroads">Community Crossroads</a></dd>
   <dd><a href="#industrial">Industrial Services</a></dd>
   <dd><a href="#employment">Community Employment</a></dd>
 </dl>
 
 <h4 class="subheader">OVERVIEW</h4>
-Fiscal year 2013 was a load of fun! We stayed busy throughout the year, filling up our days with fun activities and learning 
-opportunities. Some of the highlights of the year are always our parties: we had a great time at the annual fall dance, which 
-is always held at the Moose. Our consumers really know how to rock the house! There are many people who help put our parties 
-together, consumers, staff and donors. Our Group Community activities typically change in the fall as we start volunteering for 
-St. Thomas Head Start, as well as Plymouth Head Start. We also visited the Yellow River Farms for a hayride and choosing pumpkins. 
-The fall activities continue as we carve pumpkins and roasted seeds in facility based groups. Other facility based groups include 
-such activities as cooking groups, trivia groups, computer classes, academic groups, art groups, board games, and many others 
-too numerous to mention. Many consumers will have objectives in the facility based groups they choose, but often consumers will 
-participate in groups that are not connected with their objective and learn many skills in groups in addition to their current 
-objectives. Opportunities to improve socialization skills are often a part of group facility training. Consumers are constantly 
-making new friendships and maintaining old friendships with one another. 
-
-The Christmas Holidays came and went quickly as it often does! Our consumers participate in a variety of Community and Facility 
-Groups. We made a few visits out to Hensler's Christmas Tree Farm to sample their hot chocolate and their hospitality!  
-
-The wintery days of January and February were consumed with our regular community outings such as Computer 101 at the Plymouth 
-Public Library and water walking at the YMCA in Warsaw to name a few.  
-
-Spring finally arrived and we purchased our annual passes to the State Parks, Price's Pond and Warsaw YMCA, gearing up for camping, 
-trail walking, swimming activities, and of course swimming indoors and out. Also, meeting for our first camp-out began commencing 
-monthly. If we only knew then what we know now. We attended two Silver Hawks games this spring, which many of our folks enjoyed. 
-Also, working our way into warmer weather we enjoyed a couple of group outings to Potawatomi Zoo as well as attending the annual 
-Pathfinder's Talent Show. In May, we celebrated again at the Moose Lodge for our annual prom. It was a great success, as usual. 
-This sprint we received an award from 1st Source Bank, which we used to purchase a new stove and microwave for our kitchen. We also 
-began to implement the new "piece" of our Vertex Intuition Tracking System for goals, streamlining and modernizing our documentation 
-for consumer objectives. With the addition of this new program, we are able to print out some really great reports that are very 
-useful in consumer meetings. 
-
-As the year moved along, our attendance was up and down, we lost a few and gained a few consumers. Many consumers began receiving 
-PAC and Respite in their plans. They have very much enjoyed evening and weekend activities of their choice with some of their 
-favorite people: our wonderful staff! 
+TBD
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
-The Supported Living Program added three new consumers. 
+TBD
 
-Kent came to us in July 2013 and agreed to live in a two bedroom home with another consumer. 
+<h4 class="subheader" id="supported">COMMUNITY CROSSROADS</h4>
+The Community Crossroads program offers consumers a variety of home and community based services, affording adults opportunities to live, learn, work and play as a vital part of their own community. Our goal is to keep consumers engaged and involved, giving lifetime learning opportunities.
 
-In May 2013, one of the Supported Living landlords began to build a new home to rent to our newest incoming consumers. The home 
-is four bedrooms, 2 baths and is handicap accessible for the currrent wheelchari consumer. The new home has an attached garage 
-and is in the city limits. The home was to be completed July 2013 but had serveral delays. When the home was completed in 
-September, three Casc Managers inspected the home with the consumer guardians and requested some changes. The changes were made 
-and we moved in on October 1st, 2013. In this home are two long time consumers and two new consumers, Joe and Andy. The new 
-families are very pleased with MSDC services. 
+The day program offers consumers the option to earn a paycheck in our PreVocational area as they perform or train for a variety of jobs, as well as teaching appropriate work behaviors that could translate into a community job for a consumer in the future. Group Community activities present options for volunteerism, exercise, leisure activities and other choices. Those activities are reviewed several times each year, allowing for consumer input. Consumers also have the choice to participate in Group Facility activities. A generous variety of Group Facility classes are offered, allowing consumers to choose activities such as cooking, academics, social, leisure and many other meaningful classes. All of our programs are designed to help individuals live richer, more productive lives.
 
-Our current total of consumers for Supported Living is twenty. 
+One of the newer services that MSDC offers is PAC or Respite services to those that are eligible. These services offer families a much needed break to spend some time away from their loved one. These services can be performed in the consumer's home or in the community setting.
 
-In August 2013, Supported Living attended our Annual Camping trip to Lake Mississinewa in Peru, Indiana. As usual, everyone had 
-a memorable time. 
+We have also begun to offer some Group Community evening activities to those with an abundance of hours that have not been utilized during day program. This idea has been received well and our consumers are happy to have an evening out with peers.
 
-In September our Supported Living consumers attended a camp at Tippecanoe State Park in Winamac. It was unseasonably hot for 
-September, but it didn't seem to affect consumers. All had a fun time. 
-
-The highlights of our year are always parties! We went to the B100 Music Festival, the Blueberry Festival, Special Olympics fall 
-dance, MSDC fall dance, Harvest Ball, Karaoke at the VFW, train rides in North Judson and the Blue Chip Casino. We attended plays, 
-musicals, concerts; went fishing, cooked out, celebrated birthdays and holidays. We ended the year with a Residential Christmas 
-party and New Year's Eve party. 
+This past year has been a whirlwind of activities. In July, as always, a favorite outing for our consumers is having an invitation to attend the Bremen Firemans Festival to ride carnival rides and eat lunch. We always take full advantage of our local fairs. Some of our Pac and Respite consumers were able to attend the B100 Birthday Party. Our first annual camping trip was a complete success. Consumers had a fantastic time visiting with their peers and enjoying activities that the rest of us often take for granted. Our fall dance commenced in October, and again, a wonderful time was had by all, dancing the night away. Our days were filled with a flurry of activity, with options to participate in a host of community activities, as well as choose classes that are of interest. As we entered November and December, our consumers enjoyed visits to Henslers Tree Farm, gift shopping excursions and of course, the annual Christmas Party, Quentin Flagg entertained us and we enjoyed a lovely meal. January and February were very cold and did affect our attendance as we had many delays and several closures, Ithink by spring, we all had cabin fever! May of each year brings in activities that surround the prom, which is a whole lot of fun for our consumers. I am always impressed how the months fly by at our Center, and I think the old saying time flies when you're having fun, certainly applies here.
 
 <h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
-The focus of programming for individuals enrolled in our Industrial Track is to prepare for community employment. Individuals work 
-on increasing their productivity, building stamina, developing efficient and effective work methods and learning the importance of 
-following safety rules. 
-
-The work provided in the Industrial Track requires the use of saws, staple guns and other powered machines and tools to produce 
-wooden window blocks for the RV industry and plywood reels for wire companies. 
-
-Because of numerous skills level, we also try to offer a variety of jobs including packaging, head scaling, paper shredding and 
-labeling. This line of work is offered both at MSDC and Manitou Center. 
+TBD
 
 <h5 class="subheader">Industrial Customers</h5>
 *  BPC Manufacturing 
