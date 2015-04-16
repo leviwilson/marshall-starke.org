@@ -43,20 +43,24 @@ We have also begun to offer some Group Community evening activities to those wit
 This past year has been a whirlwind of activities. In July, as always, a favorite outing for our consumers is having an invitation to attend the Bremen Firemans Festival to ride carnival rides and eat lunch. We always take full advantage of our local fairs. Some of our Pac and Respite consumers were able to attend the B100 Birthday Party. Our first annual camping trip was a complete success. Consumers had a fantastic time visiting with their peers and enjoying activities that the rest of us often take for granted. Our fall dance commenced in October, and again, a wonderful time was had by all, dancing the night away. Our days were filled with a flurry of activity, with options to participate in a host of community activities, as well as choose classes that are of interest. As we entered November and December, our consumers enjoyed visits to Henslers Tree Farm, gift shopping excursions and of course, the annual Christmas Party, Quentin Flagg entertained us and we enjoyed a lovely meal. January and February were very cold and did affect our attendance as we had many delays and several closures, Ithink by spring, we all had cabin fever! May of each year brings in activities that surround the prom, which is a whole lot of fun for our consumers. I am always impressed how the months fly by at our Center, and I think the old saying time flies when you're having fun, certainly applies here.
 
 <h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
-TBD
+Industrial Services is designed to provide employment training to prepare consumers for community employment. Consumers have the ability to increase their industrial skills by using saws, nails guns and t-nut machines. The sub-contract work provides each individual opportunities to assemble windows blocks and work on plywood flanges. The plywood flanges are assembled into wooden spools for wire companies and the blocks are for window and door companies.
+
+Due to the individual skill levels, jobs are offered based on the ability to perform tasks, which include packaging items, heat sealing, shredding papers, labeling packages and tagging fire extinguisher cards.
 
 <h5 class="subheader">Industrial Customers</h5>
-*  BPC Manufacturing 
-*  Bridgewater Tech
-*  Chore Time 
-*  Hehr International 
-*  Material Resources 
-*  Atwood Mobile Products 
-*  Dexter Doors 
-*  Ristance 
-*  Fun Coin 
-*  Advance Electric 
-*  Rochester Homes 
+* BPC Manufacturing
+* 3M Safety Products
+* East Coast Fasteners
+* Fun Coins
+* Hehr International
+* Plymouth Products
+* Atwood Mobile
+* Ventline / Dexter
+* Standard Motor Products
+* Material Resources
+* Unified Wire and Cable
+* Rochester Home
+* Kewanna Stamping
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
 There were 15 individuals placed in competitive employment over the last year. Of those, 15 held their jobs to Vocational 
