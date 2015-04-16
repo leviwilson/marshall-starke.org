@@ -10,7 +10,7 @@ title:  "2014 Accomplishments (Children)"
   <dd><a href="#connections">Community Connections</a></dd>
   <dd><a href="#quality">Quality of Instruction</a></dd>
   <dd><a href="#performance">Performance Indicators</a></dd>
-  <dd><a href="#volunteers">Community Volunteers</a></dd>
+  <dd><a href="#volunteers">Volunteers</a></dd>
 </dl>
 
 <h4 class="subheader" id="overview">OVERVIEW</h4>
@@ -34,7 +34,21 @@ The information gathered during a four day intensive Triennial review conducted 
 Because supporting children’s readiness is an ongoing partnership between staff and families the program implemented the Parent, Family, Community Engagement Framework. The Framework is a tool for engaging families and supporting childrens ongoing learning and development. The role of parents in their child’s education should not be understated. Parent engagement is considered by this program to be a school readiness goal. The program successfully achieved 100% parent participation in parent-teacher conferences.
 
 <h4 class="subheader" id="connections">COMMUNITY CONNECTIONS</h4>
-The programs rely on the support and participation of community partners. Partnership relationships exist with the following agencies; WIC. Local School Corporations, Healthy Families, Neighborhood Center, Department of Children Services, Salvation Army, Care and Share, Community Services of Starke County, Love Inc., Bella Vita, J...S.., North Central Area Vocational Cooperative, and Council on Aging.
+The programs rely on the support and participation of community partners. Partnership relationships exist with the following agencies:
+
+* WIC
+* Local School Corporations
+* Healthy Families
+* Neighborhood Center
+* Department of Children Services
+* Salvation Army
+* Care and Share
+* Community Services of Starke County
+* Love Inc.
+* Bella Vita
+* J.E.S.S.E.
+* North Central Area Vocational Cooperative
+* Council on Aging
 
 The HS program featured a guest reader each month. Readers were recruited from the following professions / organizations; business, civic groups, government, schools, churches and health care.
 
