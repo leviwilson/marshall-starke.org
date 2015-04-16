@@ -7,14 +7,10 @@ title:  "2014 Accomplishments (Adults)"
 ## Adult Programs
 
 <dl class="tabs pill">
-  <dd><a href="#supported">Supported Living</a></dd>
   <dd><a href="#crossroads">Community Crossroads</a></dd>
   <dd><a href="#industrial">Industrial Services</a></dd>
   <dd><a href="#employment">Community Employment</a></dd>
 </dl>
-
-<h4 class="subheader">OVERVIEW</h4>
-TBD
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
 The Supported Living Program added one new consumer and lost one, who missed his old friends and roommates.
