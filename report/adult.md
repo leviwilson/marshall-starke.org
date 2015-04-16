@@ -63,21 +63,17 @@ Due to the individual skill levels, jobs are offered based on the ability to per
 * Kewanna Stamping
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
-There were 15 individuals placed in competitive employment over the last year. Of those, 15 held their jobs to Vocational 
-Rehabilitation successful closure. Of the 15 placements, 10 established new partnerships with the following businesses: 
+Community Employment served 64 individuals. Of those 64, 38 were males and 26 were females. Twenty-seven (27) were served from Marshall County, 18 in Starke County, 10 in Fulton County and 9 in St Joseph County. There were 15 individuals placed in competitive employment over the last year. Of those, 11 held their jobs to Vocational Rehabilitation successful closure. Of the 15 placements, new partnerships were established with the following businesses:
 
-*  Country Roads (_Walkerton_)
-*  Temp Rite (_Plymouth_)
-*  Topps (_Argos_)
-*  Burger King (_Wanatah_)
-*  Memorial Home Health (_South Bend_)
-*  England Trucking (_South Bend_)
-*  L & B Country Store (_Monterey_)
-*  Specialty Furniture (_Knox_)
-*  County Line Landfill (_Rochester_)
-*  Heinold's (_LaPorte_)
+* Comfort Keeper (_ Granger_)
+* Post Office (_Plymouth_)
+* Van Guard (_Monon_)
+* Enids Cleaning (_Rochester_)
+* Quick Clean (_Plymouth_)
+* Selected Furniture (_Knox_)
+* Starke County Chamber of Commerce (_Knox_)
+* McDonalds (_Walkerton_)
+* OConnor Dell (_North Liberty_)
 
-After a referral is made to MSDC, the average time to develop a person's Play for Employment and to begin the job search was 28 
-days. Of the 15 jobs secure and completing successful VR closure, the average number of hours worked per week was 27, while the 
-average hourly pay was $9.09. When surveyed, 100% of the 64 individuals served this fiscal year were satisfied with services. 
+After a referral is made to MSDC, the average time to develop a persons plan for Employment and to begin the job search was 50.5 days. The median length of time to get a job is 3.5 months. Of the 11 jobs secured and completing successful Vocational Rehabilitation closure, the average number of hours worked per week was 29 while the average hourly pay was $9.12.
 
