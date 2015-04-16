@@ -10,7 +10,7 @@ title:  "2014 Accomplishments (Children)"
   <dd><a href="#connections">Community Connections</a></dd>
   <dd><a href="#quality">Quality of Instruction</a></dd>
   <dd><a href="#performance">Performance Indicators</a></dd>
-  <dd><a href="#volunteers">Parent &amp; Community Volunteers</a></dd>
+  <dd><a href="#volunteers">Community Volunteers</a></dd>
 </dl>
 
 <h4 class="subheader" id="overview">OVERVIEW</h4>
