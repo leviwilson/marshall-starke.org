@@ -17,7 +17,19 @@ title:  "2014 Accomplishments (Adults)"
 TBD
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
-TBD
+The Supported Living Program added one new consumer and lost one, who missed his old friends and roommates.
+
+Our new consumer moved in in July 2014 and fit in immediately. He lived at home with his parents until he came to us and we thought he could have a difficult transition. However the move was simple and consumer and family are happy with their services.
+
+Our current total of consumers for Supported Living is twenty.
+
+In August 2014, Supported Living attended our Annual Camping trip to Lake Mississinewa in Peru, Indiana. The weather was perfect this year and everyone had a great time.
+
+In September our consumers also attended camp at Tippecanoe State Park in Winamac. This was our second year at Tippecanoe and it was well organized. We had many consumers who spent the night with staff as roommates.
+
+This year, staff turnover has been very high for the Supported Living Program. It's been difficult to keep enough staff to fill all positions and the loyal staff we have, filled many overtime hours,
+
+It has been a busy year again with lots of activities for our consumers. We have been to Turkey Tracks to hunt, Cavalcade of Wheels, wrestling event at the Battel Center, Festivals and 4H fairs. One consumers purchased a new fire pit and all consumers have joined in for cookouts and made s’mores! We have been to the zoo, parades, fireworks, movie theatre, fishing, YMCA for exercise and swimming, car shows, concerts, musicals, baseball games at the Cove, hockey games, circus, museums. One consumer has taken lessons at Heartland Artists for painting and drawing comics, another has taken cooking classes. Another consumer has shown an interest in billiards and plays at the Moose Lodge.
 
 <h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 The Community Crossroads program offers consumers a variety of home and community based services, affording adults opportunities to live, learn, work and play as a vital part of their own community. Our goal is to keep consumers engaged and involved, giving lifetime learning opportunities.
