@@ -30,10 +30,10 @@ Marshall-Starke has an extensive range of employment opportunities from producti
 
 <h4 id="openings">Current Openings</h4>
 
-##### Creative Director
+<h4 class="subheader">Creative Director</h4>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at augue metus, at aliquam leo. Nam ac justo nisl. Ut non orci odio. Praesent lobortis blandit lacus et consectetur. Etiam ac sagittis tortor. Vestibulum vestibulum sem nec purus congue cursus. Sed bibendum lectus id tellus egestas sit amet interdum leo fringilla. Fusce dictum neque ut massa facilisis nec mattis erat blandit. In vel vestibulum massa.
 
-###### Job Description
+##### Job Description
 Integer eget neque purus. Praesent at tincidunt metus. Nunc sed risus nulla, a laoreet magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget erat mauris, sit amet gravida elit. Sed dictum nisl et eros dictum dictum. Sed cursus risus sed ipsum mollis vitae fermentum ante lacinia. In consequat elit a massa mollis vel mollis nulla vestibulum. Nam euismod, dolor bibendum condimentum adipiscing, elit ante pulvinar velit, id pulvinar urna lacus sit amet diam. Suspendisse potenti. Pellentesque imperdiet, ipsum ut viverra varius, urna arcu sodales nisi, at elementum leo nisl at dui. Integer aliquam porta metus, luctus mollis tellus condimentum eget. Maecenas enim est, lobortis quis vestibulum et, laoreet sed urna.
 
 ##### Requirements
