@@ -30,7 +30,8 @@ Marshall-Starke has an extensive range of employment opportunities from producti
 
 <h4 id="openings">Current Openings</h4>
 
-The Marshall-Starke Development Center is accepting resumes for the position of Chief Executive Office
+The Marshall-Starke Development Center is accepting resumes for the position of:
+<h4 class="subheader">Chief Executive Office, C.E.O</h4>
 
 Resumes will be accepted through October 30th, 2015.
 
