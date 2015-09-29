@@ -30,6 +30,21 @@ Marshall-Starke has an extensive range of employment opportunities from producti
 
 <h4 id="openings">Current Openings</h4>
 
+The Marshall-Starke Development Center is accepting resumes for the position of:  
+ 34 +<h4 class="subheader">Chief Executive Office, C.E.O</h4>  
+ 35 +  
+ 36 +Resumes will be accepted through October 30th, 2015.  
+ 37 +  
+ 38 +The candidate should have a degree in Rehabilitation, Public Administration, or a related field.  The indivdual filling this position should have a minimum of five years experience in an administrative capacity, preferably in an area of Human Services.  The invidual must have the ability to deal effectively with a variety of people with differing backgrounds, interests, and attitudes.  The individual must be capable of giving advice and direction to the Staff and Board of Directors.  
+ 39 +  
+ 40 +Send Resume To:    
+ 41 +  
+ 42 +Search Committee  
+ 43 +Marshall-Starke Development Center  
+ 44 +1901 PIDCO Drive  
+ 45 +Plymouth, IN  46563  
+ 46 +  
+
 <h4 class="subheader">Personal/Social/Community Support Services Trainer</h4>
 Qualifications:  High school diploma or G.E.D. preferred, Post high school training in teaching or training methodology; preferably experience in instructional capacity in a school, adult education, or rehabilitation facility; demonstrated skills in leardership and instructional ability, and ability to pass drug/alcohol, tuberculosis, and criminal history.
 
