@@ -11,7 +11,7 @@ title:  Board & Management
   <h3 class="subheader">Marshall-Starke Board</h3>
   <ul>
     <li>John Oliver, Chairman</li>
-    <li,Adam Lukenbill, Vice Chairman</li>
+    <li>Adam Lukenbill, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
     <li>Terry Moore, Secretary</li>
     <li>Nelson Chipman</li>
