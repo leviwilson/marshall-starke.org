@@ -10,17 +10,17 @@ title:  Board & Management
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Board</h3>
   <ul>
-    <li>Todd Zeltwanger, Chairman</li>
-    <li>Susan Ellert, Vice Chairman</li>
+    <li>John Oliver, Chairman</li>
+    <li>Adam Lukenbill, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
-    <li>John Oliver, Secretary</li>
-    <li>Melanie Robertson</li>
-    <li>Jim Clevenger</li>
-    <li>Rick Miller</li>
+    <li>Terry Moore, Secretary</li>
+    <li>Nelson Chipman</li>
+    <li>Amy Mooris-Dodson</li>
+    <li>Erika Leman</li>
     <li>James Cheesman</li>
-    <li>Terry Moore</li>
-    <li>Flora Tibbetts</li>
-    <li>Michael McBride</li>
+    <li>Emily King</li>
+    <li>Nancy Dembowski</li>
+    <li>Joan Hough</li>
     <li>David Pearman</li>
   </ul>
 </div>
@@ -28,10 +28,9 @@ title:  Board & Management
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Management</h3>
   <ul>
-    <li>Michael Lintner, President/C.E.O.</li>
+    <li>Jodie Smith, President/C.E.O.</li>
     <li>Dan Haenes, Vice President/C.F.O.</li>
     <li>Jane Pollitt, Vice President Children's Programs</li>
-    <li>Christie Rice, Vice President Industrial Operations</li>
-    <li>Jodie Smith, Vice President Adult Programs</li>
+    <li>Pam Landesman, Vice President Adult Programs</li>
   </ul>
 </div>
