@@ -57,185 +57,73 @@ All local and state fire, health, and sanitation inspections reported no concern
 <h4 class="subheader" id="performance">HEAD START &amp; EARLY HEAD START PERFORMANCE INDICATORS</h4>
 
 <table class="responsive">
-    <thead>
-        <tr>
-            <th>Performance Indicators</th>
-            <th>Head Start</th>
-            <th>Early Head Start</th>
-        </tr>
-    </thead>
-    <tbody>
+  <thead>
     <tr>
-        <td>Funded Enrollment</td>
-        <td>182</td>
-        <td>40</td>
+      <th>Performance Indicators</th>
+      <th>Head Start</th>
+      <th>Early Head Start</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Funded Enrollment</td>
+      <td>182</td>
+      <td>40</td>
     </tr>
     <tr>
-        <td>Total 2014 cumulative enrollment</td>
-        <td>223</td>
-        <td>68</td>
+      <td>2014 Cumulative Enrollment</td>
+      <td>233</td>
+      <td>70</td>
     </tr>
     <tr>
-        <td>Number of EHS pregnant women</td>
-        <td>N/A</td>
-        <td>10</td>
+      <td>Number of EHS Pregnant Women</td>
+      <td>N/A</td>
+      <td>3</td>
     </tr>
     <tr>
-        <td>Total number of children with a disability</td>
-        <td>28</td>
-        <td>26</td>
+      <td>Total Number of Children with a Disability</td>
+      <td>29</td>
+      <td>20</td>
     </tr>
     <tr>
-        <td>Percentage of children with a continuous source of preventative medical and dental care</td>
-        <td>100%</td>
-        <td>100%</td>
+      <td>Percentage of children with a continuous source of preventive medical and dental care.</td>
+      <td>100%</td>
+      <td>100%</td>
     </tr>
     <tr>
-        <td>Percentage of children with up to date immunizations, all possible immunizations to date</td>
-        <td>100%</td>
-        <td>100%</td>
+      <td>Percentage of children with up-to-date immunizations all possible immunizations to date</td>
+      <td>97%</td>
+      <td>100%</td>
     </tr>
     <tr>
-        <td>Percentage of children diagnosed with a chronic health condition who received medical treatment</td>
-        <td>100%</td>
-        <td>100%</td>
+      <td>The percentage of children diagnosed with a chronic health condition who received medical treatment</td>
+      <td>100%</td>
+      <td>100%</td>
     </tr>
     <tr>
-        <td>Percentage of families experiencing homelessness</td>
-        <td>0%</td>
-        <td>0%</td>
+      <td>Percentage of families experiencing homelessness</td>
+      <td>0%</td>
+      <td>0%</td>
     </tr>
     <tr>
-        <td>Average monthly attendance</td>
-        <td>86%</td>
-        <td>N/A</td>
+      <td>Average Monthly Attendance</td>
+      <td>87%</td>
+      <td>N/A</td>
     </tr>
     <tr>
-        <td>Percentage of pregnant women who received prenatal care</td>
-        <td>N/A</td>
-        <td>100%</td>
+      <td>Percentage of pregnant women who received prenatal care</td>
+      <td>N/A</td>
+      <td>100%</td>
     </tr>
     <tr>
-        <td>Percentage of pregnant women who received postpartum health care</td>
-        <td>N/A</td>
-        <td>100%</td>
+      <td>Percentage of pregnant women who received postpartum health care</td>
+      <td>N/A</td>
+      <td>100%</td>
     </tr>
     <tr>
-        <td>Percentage of children who are up-to-date on a schedule of age appropriate preventative oral health care</td>
-        <td>100%</td>
-        <td>100%</td>
+      <td>Percentage of children who are up-to-date on a schedule of age appropriate preventive oral health care.</td>
+      <td>100%</td>
+      <td>100%</td>
     </tr>
-    </tbody>
+  </tbody>
 </table>
-
-<h4 class="subheader" id="volunteers">PARENT &amp; COMMUNITY VOLUNTEERS</h4>
-<table class="responsive">
-    <thead>
-        <tr>
-            <th>Volunteer Type</th>
-            <th>HS</th>
-            <th>EHS</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Parent/Relative</td>
-        <td>293</td>
-        <td>69</td>
-    </tr>
-    <tr>
-        <td>Community Volunteers</td>
-        <td>269</td>
-        <td>7</td>
-    </tr>
-    </tbody>
-</table>
-
-<h5 class="subheader">EARLY CHILDHOOD VOCATIONAL EDUCATION</h5>
-Now in its 12th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since its inception over 250 students have completed the Early Childhood Vocational Education Program.
-
-The students receive in-class instruction supplemented with direct vocational experience in Head Start and Kindergarten classrooms. Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is a valuable in-kind contribution.
-
-At this time our Head Start Program employs four graduates of the Early Childhood Vocational Education Program.
-
-<h5 class="subheader">TYPES OF ELIGIBILITY BY ENROLLEE</h5>
-<table class="responsive">
-    <thead>
-        <tr>
-            <th>Number of Enrollees</th>
-            <th>HS</th>
-            <th>EHS</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Income below 100% of federal poverty line</td>
-        <td>134</td>
-        <td>46</td>
-    </tr>
-    <tr>
-        <td>Receipt of Public Assistance</td>
-        <td>28</td>
-        <td>12</td>
-    </tr>
-    <tr>
-        <td>Status as Foster Care</td>
-        <td>12</td>
-        <td>5</td>
-    </tr>
-    <tr><td><strong>Primary Language</strong></td></tr>
-    <tr>
-        <td>English</td>
-        <td>213</td>
-        <td>66</td>
-    </tr>
-    <tr>
-        <td>Spanish</td>
-        <td>10</td>
-        <td>12</td>
-    </tr>
-    <tr><td><strong>Ethnicity</strong></td></tr>
-    <tr>
-        <td>Hispanic or Latin Origin</td>
-        <td>18</td>
-        <td>25</td>
-    </tr>
-    <tr>
-        <td>Non-Hispanic or Latin Origin</td>
-        <td>205</td>
-        <td>53</td>
-    </tr>
-    <tr><td><strong>Families</strong></td></tr>
-    <tr>
-        <td>Number of Families</td>
-        <td>198</td>
-        <td>58</td>
-    </tr>
-    <tr>
-        <td>Two Parent Families</td>
-        <td>58%</td>
-        <td>66%</td>
-    </tr>
-    <tr>
-        <td>Single Parent Families</td>
-        <td>42%</td>
-        <td>34%</td>
-    </tr>
-    <tr><td><strong>Employment (At Time of Enrollment)</strong></td></tr>
-    <tr><td><strong>Percentage of Two Parent Families with:</strong></td></tr>
-    <tr>
-        <td>One or Both Parents Employed</td>
-        <td>82%</td>
-        <td>87%</td>
-    </tr>
-    <tr><td><strong>Percentage of Single Parent Families with:</strong></td></tr>
-    <tr>
-        <td>Parent Employed</td>
-        <td>46%</td>
-        <td>16%</td>
-    </tr>
-    </tbody>
-</table>
-
-Eighty-four (84) percent of our Head Start families and 74% of our Early Head
-Start families have a parent who graduated from high school.
