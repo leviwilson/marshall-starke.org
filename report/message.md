@@ -1,18 +1,17 @@
 ---
 layout: default
-title: "2014 President's Message"
+title: "2015 President's Message"
 ---
 {% include annual.report.breadcrumb %}
 
 ##President’s Message
-Fiscal year 2014 was yet another very positive year for Marshall-Starke Development Center. We have continued to improve our financial position while providing a variety of services that continue to receive very favorable marks from consumers, family, and funding sources alike.
+Celebrating the 50th Anniversary of Marshall-Starke Development Center has made Fiscal Year 2015 very special. Reviewing old Board minutes, going through scrap books, and talking with people involved in the early years of Marshall-Starke has renewed my admiration for the folks who started this organization. So many people volunteered countless hours doing whatever was necessary to provide a better life for people with disabilities living in Marshall and Starke counties.
 
-I think the highlights of the year, for me, have been some new activities that the consumers have gotten involved in. Probably the biggest new activity was the 2 12 day camping trip to the Tippecanoe State Park. More than 100 of our consumers had a great time, even though the temperatures for September were extremely high. Another activity initiated in 2014 was having a consumer cooking group prepare lunches for our Board of Directors meetings. Each time the group preparing the lunch was brought in to be introduced to the Board. This really turned out to be a great activity enjoyed by the consumers and the Board members.
+I want to thank all those people who worked so tirelessly so that Marshall-Starke Development Center could provide programs and services for those in need. I have been extremely fortunate to be the CEO of this organization for 29 of those 50 years. I hope the founders are pleased and proud of the accomplishments we have made. We have experienced growth in both numbers of people served, and the opportunities provided to them. I am most proud of the fact that for 50 years the mission of Marshall Starke Development Center has consistently been to train, educate, and advocate.
 
-Also this year, I had consumers accompany me to each of our County Commissioners meetings and do a presentation and an update on the current activities of the Center. I think this was enjoyed greatly by the consumers and the County Commissioners.
-One new project we started looking at in 2014 was building a Greenhouse at our PIDCO Drive location. Our vision is to have our consumers grow and sell vegetables. We are in the fund raising stage and hope to have this project completed in FY 2015.
+I am confident MSDC will continue to grow, prosper, and serve. Once again, I want to thank all of those who have made this possible.
 
 ![Michael Lintner](/images/mike_signature.png)
 #### *Michael Lintner*
-President & Chief Executive Officer  
+President & Chief Executive Officer
 Marshall-Starke Development Center
