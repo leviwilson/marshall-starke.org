@@ -12,6 +12,7 @@ I want to thank all those people who worked so tirelessly so that Marshall-Stark
 I am confident MSDC will continue to grow, prosper, and serve. Once again, I want to thank all of those who have made this possible.
 
 ![Michael Lintner](/images/mike_signature.png)
+
 #### *Michael Lintner*
 President & Chief Executive Officer
 Marshall-Starke Development Center
