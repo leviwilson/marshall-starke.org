@@ -14,5 +14,5 @@ I am confident MSDC will continue to grow, prosper, and serve. Once again, I wan
 ![Michael Lintner](/images/mike_signature.png)
 
 <h4 class="subheader" id="overview">Michael Lintner</h4>
-President  
+President & Chief Executive Officer  
 Marshall-Starke Development Center
