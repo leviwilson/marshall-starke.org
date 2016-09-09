@@ -5,7 +5,8 @@ title:  "2014 Financial Information"
 {% include annual.report.breadcrumb %}
 
 ## 2014 Financial Information
-#### _July 01, 2013 - June 30, 2014_
+
+<h4 class="subheader">July 01, 2013 - June 30, 2014</h4>
 
 {% include revenues.2014 %}
 
