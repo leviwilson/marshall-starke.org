@@ -18,11 +18,6 @@ title:  Contacts
   1690 Lucas Street<br/>
   Rochester, IN 46975<br/>
   (574) 233-6963<br/>
-
-  <h5 class="subheader">Real Products</h5>
-  1901 PIDCO Drive<br/>
-  Plymouth, IN 46563<br/>
-  (574) 936-5674<br/>
 </div>
 <div class="six columns">
   <h3>Children's Program Locations</h3>
