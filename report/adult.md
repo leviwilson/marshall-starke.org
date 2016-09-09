@@ -9,7 +9,6 @@ title:  "2015 Accomplishments (Adults)"
 <dl class="tabs pill">
   <dd><a href="#crossroads">Community Crossroads</a></dd>
   <dd><a href="#industrial">Industrial Services</a></dd>
-  <dd><a href="#employment">Community Employment</a></dd>
 </dl>
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
@@ -35,6 +34,3 @@ The Industrial Track is a choice for consumers who wish to have an emphasis on l
 * Material Resources
 * Bridgewater
 * Unified
-
-<h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
-TBD
