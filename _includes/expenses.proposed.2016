@@ -15,7 +15,7 @@ $(document).ready(function () {
             plotShadow: false
         },
         title: {
-            text: '2015 Expenses'
+            text: 'Proposed 2016 Expenses'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
@@ -35,7 +35,7 @@ $(document).ready(function () {
         },
         series: [{
             type: 'pie',
-            name: '2015 Expenses',
+            name: 'Proposed 2016 Expenses',
             data: [
               {name: 'Program Services', y: 45.97, value: '$2,862,084'},
               {name: 'Industrial Operations', y: 16.79, value: '$1,045,203'},

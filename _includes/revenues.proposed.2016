@@ -15,7 +15,7 @@ $(document).ready(function () {
             plotShadow: false
         },
         title: {
-            text: '2015 Revenues'
+            text: 'Proposed 2016 Revenues'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
@@ -35,7 +35,7 @@ $(document).ready(function () {
         },
         series: [{
             type: 'pie',
-            name: '2015 Revenues',
+            name: 'Proposed 2016 Revenues',
             data: [
               {name: 'Other', y: 0.40, value: '$24,980'},
               {name: 'Industrial Services', y: 14.63, value: '$911,913'},
