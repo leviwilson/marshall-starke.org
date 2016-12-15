@@ -13,7 +13,7 @@ title:  Employment
 <div class="five columns" style="float: right;">
   <div href="#" class="th">
     <img src="/images/employment.jpg" />
-    <h6 class="subheader">Pictured above are Beth Schaeffer (left) and Pat Langfeldt (right) who have worked at Marshall-Starke for 23 and 17 years respectively.</h6>
+    <h6 class="subheader">Pictured above are Beth Schaeffer (left) and Pat Langfeldt (right) who have worked at Marshall-Starke for 25 and 18 years respectively.</h6>
   </div>
   
 </div>
@@ -33,7 +33,7 @@ Marshall-Starke has an extensive range of employment opportunities from producti
 Marshall-Starke Development Center is accepting resumes for the position of:
 
 <h4 class="subheader">Personal/Social/Community Support Services Trainer</h4>
-Qualifications:  High school diploma or G.E.D. preferred, Post high school training in teaching or training methodology; preferably experience in instructional capacity in a school, adult education, or rehabilitation facility; demonstrated skills in leardership and instructional ability, and ability to pass drug/alcohol, tuberculosis, and criminal history.
+Qualifications:  High school diploma or G.E.D. preferred, willingness to learn skills related to working with individuls with a disablity/disablities, and ability to pass drug/alcohol, tuberculosis, and criminal history.
 
 ##### Job Description
 Responsible for an individual or group of individuals, either separately or in a team teaching program; assists in the development of individual program plans and implementation through instructional situations in the areas of personal, social, and community living skills.
