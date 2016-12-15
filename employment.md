@@ -44,11 +44,6 @@ Responsible for an individual or group of individuals, either separately or in a
 * Pass CPR and First Aide
 * Must have a Driver's License
 
-<strong>Send Resume To:</strong>  
-<h5 style="margin: 0;" class="subheader">Search Committee - Marshall-Starke Development Center</h5>
-1901 PIDCO Drive<br/>
-Plymouth, IN  46563<br/>
-
 <h4 id="contact">Contact Us</h4>
 If you enjoy working with people and are seeking a rewarding career, Marshall-Starke may be the right place for you. For information on what positions may be available contact Human Resources at [srepp@marshall-starke.org](mailto:srepp@marshall-starke.org) or drop by one of our center locations to complete an application.
 
