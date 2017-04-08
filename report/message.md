@@ -13,8 +13,6 @@ MSDC's Head Start program has completed all of the required federal reviews, and
 
 MSDC has great program participants and staff. We look forward to the possibilities of the new year!
 
-![Michael Lintner](/images/mike_signature.png)
-
-<h4 class="subheader" id="overview">Michael Lintner</h4>
+<h4 class="subheader" id="overview">Jodie Smith</h4>
 President & Chief Executive Officer  
 Marshall-Starke Development Center
