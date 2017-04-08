@@ -8,7 +8,6 @@ title:  "2015 Accomplishments (Adults)"
 
 <dl class="tabs pill">
   <dd><a href="#crossroads">Community Crossroads</a></dd>
-  <dd><a href="#industrial">Industrial Services</a></dd>
   <dd><a href="#employment">Community Employment Services</a></dd>
 </dl>
 
@@ -47,22 +46,6 @@ Another big change was the opening of the new Senior Program on May 1. Many of o
 Our annual prom commenced in May, with a large and beautiful crowd. It is so satisfying to see the consumers we serve happy and carefree. The summer was busy as usual, with community outings and facility based activities, as well as the choice to earn a paycheck in the Pod. Our annual camping trip was held at Tippecanoe State Park in September. It was an amazing few days, with many fun activities to offer our consumers. These kind of events are what make us stop and think about the things that are really meaningful to our consumers and remind us why our staff love working with this population. Fall brought to us another party that was a big success as well. The winter rolled in and brought with it some severe weather! We are grateful that our fleet of vehicles has improved with the addition of at least two brand-new vehicles each year for the past several years, with many thanks to INDOT grants combined with our fundraising dollars. The newer variety of vehicles are meeting the transportation needs of those we serve in a safer, more effective way.
 
 Looking forward, the ability to use the gym will be an exciting opportunity for our consumers. We continue to focus on the future needs and desires of our consumers and I believe the coming year will be chock-full of new innovations, as well as some old traditions and perhaps challenges. We are poised and ready for the future!
-
-<h4 class="subheader" id="industrial">INDUSTRIAL SERVICES</h4>
-The Industrial Track is a choice for consumers who wish to have an emphasis on learning work skills. There are job options that give the consumer the opportunity to enhance a large variety of work skills while earning a paycheck. Many of the consumers will choose to spend the majority of their day in this factory setting. Some examples of current sub-contract jobs are grinding bars for bath tub enclosures, using nail and staple guns to assemble wooden blocks for window and door companies, the use of saws for various cut-to-length jobs and work on plywood reels used for wire companies. Other jobs that could be offered would include packaging various items, heat sealing, shredding papers, labeling packages and tagging fire extinguisher cards.
-
-<h5 class="subheader">Industrial Customers</h5>
-* BPC Manufacturing
-* 3M Safety Products
-* Fun Coins
-* Plymouth Products
-* Chore Time
-* Maaxx
-* Dexter
-* Standard Motor
-* Material Resources
-* Bridgewater
-* Unified
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
 In Fiscal Year 2015, 52 individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Fulton Counties, followed closely by Starke County. There were a small number of St Joseph and LaPorte County residents served. The majority of program participants were in either their twenties or forties, while a smaller percentage were in their thirties. There was an even smaller number of individuals in the age ranges of fifties, sixties, and seventies.
