@@ -76,19 +76,19 @@ All local and state fire, health, and sanitation inspections reported no concern
       <td>40</td>
     </tr>
     <tr>
-      <td>2014 Cumulative Enrollment</td>
-      <td>233</td>
-      <td>70</td>
+      <td>2015 Cumulative Enrollment</td>
+      <td>244</td>
+      <td>78</td>
     </tr>
     <tr>
       <td>Number of EHS Pregnant Women</td>
       <td>N/A</td>
-      <td>3</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Total Number of Children with a Disability</td>
-      <td>29</td>
-      <td>20</td>
+      <td>21</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Percentage of children with a continuous source of preventive medical and dental care.</td>
@@ -107,7 +107,7 @@ All local and state fire, health, and sanitation inspections reported no concern
     </tr>
     <tr>
       <td>Percentage of families experiencing homelessness</td>
-      <td>0%</td>
+      <td>1%</td>
       <td>0%</td>
     </tr>
     <tr>
