@@ -41,7 +41,9 @@ The programs rely on the support and participation of community partners. Partne
 * Bella Vita
 * J.E.S.S.E.
 * North Central Area Vocational Cooperative
-* Council on Aging
+* and Council on Aging
+* Bremen Schools
+* Marshall County Child Protection Team
 
 <h4 class="subheader" id="outcomes">MONITORING OUTCOMES</h4>
 In 2015 the Administration for Children and Families (ACF) conducted a Comprehensive Services/School Readiness Review. The programs were found to be in full compliance with all federal regulations and performance standards. The 2015 National CLAS Scores showed our Head Start program to be just shy of the highest 1010 for Emotional Support and Classroom Organization. And just under the median national score for Instructional Support.
