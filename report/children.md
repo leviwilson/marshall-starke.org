@@ -26,6 +26,10 @@ Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined tot
 
 Marshall-Starke HS and EHS maintained active waitlists. Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 222 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2016 the programs' combined cumulative enrollment was 322 children. Fifty-four (54) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
 
+**Marshall-Starke Early Head Start (EHS)** established school readiness goals that recognize the impact of early experiences on brain development. The EHS school readiness goals acknowledge how early experiences, particularly the relationship created jointly by baby and parents, shape the foundational learning structures of the brain. The school readiness goals are relationship based and relate to early developmental milestones. The last analysis of school readiness data showed the majority of children attained age appropriate expectations.
+
+Because supporting children's readiness is an ongoing partnership between staff and families the program implemented the Parent, Family, Community Engagement Framework. The Framework is a tool for engaging families and supporting children's ongoing learning and development. The role of parents in their child's education should not be understated. Parent engagement is considered by this program to be a school readiness goal. The program successfully achieved 100% parent participation in parent-teacher conferences.
+
 <h4 class="subheader" id="connections">COMMUNITY CONNECTIONS</h4>
 The programs rely on the support and participation of community partners. Partnership relationships exist with the following agencies:
 
