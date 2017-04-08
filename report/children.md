@@ -46,7 +46,7 @@ The programs rely on the support and participation of community partners. Partne
 * Marshall County Child Protection Team
 
 <h4 class="subheader" id="outcomes">MONITORING OUTCOMES</h4>
-In 2015 the Administration for Children and Families (ACF) conducted a Comprehensive Services/School Readiness Review. The programs were found to be in full compliance with all federal regulations and performance standards. The 2015 National CLAS Scores showed our Head Start program to be just shy of the highest 1010 for Emotional Support and Classroom Organization. And just under the median national score for Instructional Support.
+In 2016 the Administration for Children and Families (ACF) conducted a Leadership, Program Governance and Management Systems Review. The programs were found to be in full compliance with all federal regulations and performance standards. Internal monitoring of class scores reported averages above the national median in all the areas: Emotional Support, Classroom Organization and Instructional Support.
 
 All local and state fire, health, and sanitation inspections reported no concerns. The results of the most recent financial audit expressed "an unqualified opinion on all major federal programs" with "no instance of noncompliance material, qualifying MSDC as a low risk auditee."
 
