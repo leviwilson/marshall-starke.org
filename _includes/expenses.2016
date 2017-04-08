@@ -1,0 +1,53 @@
+<div id="expenses-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+var chart;
+
+$(document).ready(function () {
+  
+  // Build the chart
+    chart = new Highcharts.Chart({
+        chart: {
+            renderTo: 'expenses-container',
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: '2015 Expenses'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.value}</b>',
+          percentageDecimals: 1
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    formatter:  function() {
+                      return '<b>' + this.point.name + '</b><br/>' + this.point.value;
+                    }
+                },
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: '2015 Expenses',
+            data: [
+              {name: 'Program Services ', y: 52.42, value: '$3,845,634'},
+              {name: 'Industrial Operations', y: 15.90, value: '$1,166,307'},
+              {name: 'HS/EHS/USDA', y: 23.76, value: '$1,743,115'},
+              {name: 'Administration ', y: 7.93, value: '$581,538'}
+            ]
+        }]
+    });
+});
+
+});
+</script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+

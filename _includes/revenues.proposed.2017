@@ -1,0 +1,55 @@
+<div id="proposed-revenues-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+var chart;
+
+$(document).ready(function () {
+  
+  // Build the chart
+    chart = new Highcharts.Chart({
+        chart: {
+            renderTo: 'proposed-revenues-container',
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: 'Proposed 2016 Revenues'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.value}</b>',
+          percentageDecimals: 1
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    formatter:  function() {
+                      return '<b>' + this.point.name + '</b><br/>' + this.point.value;
+                    }
+                },
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Proposed 2016 Revenues',
+            data: [
+              {name: 'Other', y: 0.40, value: '$24,980'},
+              {name: 'Industrial Services', y: 14.63, value: '$911,913'},
+              {name: 'Program Services', y: 51.90, value: '$3,235,858'},
+              {name: 'Public Support', y: 4.60, value: '$287,100'},
+              {name: 'USDA', y: 1.28, value: '$80,000'},
+              {name: 'HS/EHS', y: 27.19, value: '$1,695,057'}
+            ]
+        }]
+    });
+});
+
+});
+</script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
