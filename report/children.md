@@ -133,17 +133,17 @@ All local and state fire, health, and sanitation inspections reported no concern
     <tbody>
       <tr>
           <td>Parent/Relative</td>
-          <td>301</td>
+          <td>371</td>
       </tr>
       <tr>
           <td>Community Volunteers</td>
-          <td>383</td>
+          <td>395</td>
       </tr>
     </tbody>
 </table>
 
 <h5 class="subheader">EARLY CHILDHOOD VOCATIONAL EDUCATION</h5>
-Now in its 13th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 275 students have completed the Early Childhood Vocational Education Program.
+Now in its 14th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 275 students have completed the Early Childhood Vocational Education Program.
 
 The students receive in-class instruction supplemented with direct vocational experience in Head Start and Kindergarten classrooms. Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is a valuable in-kind contribution.
 
