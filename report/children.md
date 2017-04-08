@@ -172,76 +172,86 @@ Our Head Start Program employs four graduates of the Early Childhood Vocational 
   <tbody>
     <tr>
       <td>Income below 100% of federal poverty</td>
-      <td>154</td>
-      <td>33</td>
+      <td>167</td>
+      <td>32</td>
     </tr>
     <tr>
       <td>Receipt of Public Assistance</td>
-      <td>27</td>
-      <td>13</td>
+      <td>17</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>Status as Foster Care</td>
+      <td>10</td>
       <td>6</td>
-      <td>2</td>
     </tr>
     <tr>
       <td>Over Income</td>
-      <td>46</td>
-      <td>22</td>
+      <td>19</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Homeless</td>
+      <td>2</td>
+      <td>0</td>
     </tr>
     <tr><td><strong>Primary Language</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>English</td>
-      <td>214</td>
-      <td>55</td>
+      <td>225</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Spanish</td>
       <td>19</td>
-      <td>15</td>
+      <td>17</td>
     </tr>
     <tr><td><strong>Ethnicity</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Ethnicity Hispanic or Latin Origin</td>
-      <td>32</td>
-      <td>22</td>
+      <td>16</td>
+      <td>21</td>
     </tr>
     <tr>
       <td>Non-Hispanic or Latin Origin</td>
-      <td>201</td>
-      <td>48</td>
+      <td>224</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>4</td>
+      <td>2</td>
     </tr>
     <tr><td><strong>Families</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Number of Families</td>
-      <td>197</td>
-      <td>58</td>
+      <td>225</td>
+      <td>63</td>
     </tr>
     <tr>
       <td>Two Parent Families</td>
-      <td>51%</td>
-      <td>79%</td>
+      <td>123</td>
+      <td>52</td>
     </tr>
     <tr>
       <td>Single Parent Families</td>
-      <td>49%</td>
-      <td>21%</td>
+      <td>102</td>
+      <td>11</td>
     </tr>
     <tr><td><strong>Employment (At Time of Enrollment)</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr><td><strong>Percentage of Two Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
-        <td>One or Both Parents Employed</td>
-        <td>89%</td>
-        <td>91%</td>
+      <td>One or Both Parents Employed</td>
+      <td>89%</td>
+      <td>88%</td>
     </tr>
     <tr><td><strong>Percentage of Single Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
-        <td>Parent Employed</td>
-        <td>53%</td>
-        <td>17%</td>
+      <td>Parent Employed</td>
+      <td>50%</td>
+      <td>45%</td>
     </tr>
   </tbody>
 </table>
 
-Eighty-one (81) percent of our Head Start families and 83% of our Early Head Start families have a parent who graduated from high school. 
+Eighty-four (84) percent of our Head Start families and 83% of our Early Head Start families have a parent who graduated from high school.
