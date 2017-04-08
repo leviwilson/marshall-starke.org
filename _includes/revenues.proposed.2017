@@ -15,7 +15,7 @@ $(document).ready(function () {
             plotShadow: false
         },
         title: {
-            text: 'Proposed 2016 Revenues'
+            text: 'Proposed 2017 Revenues'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
@@ -35,14 +35,13 @@ $(document).ready(function () {
         },
         series: [{
             type: 'pie',
-            name: 'Proposed 2016 Revenues',
+            name: 'Proposed 2017 Revenues',
             data: [
-              {name: 'Other', y: 0.40, value: '$24,980'},
-              {name: 'Industrial Services', y: 14.63, value: '$911,913'},
-              {name: 'Program Services', y: 51.90, value: '$3,235,858'},
-              {name: 'Public Support', y: 4.60, value: '$287,100'},
-              {name: 'USDA', y: 1.28, value: '$80,000'},
-              {name: 'HS/EHS', y: 27.19, value: '$1,695,057'}
+              {name: 'Other', y: 0.39, value: '$22,080'},
+              {name: 'Program Services', y: 64.18, value: '$3,611,931'},
+              {name: 'Public Support', y: 3.56, value: '$200,293'},
+              {name: 'USDA', y: 1.22, value: '$68,400'},
+              {name: 'HS/EHS', y: 30.65, value: '$1,724,993'}
             ]
         }]
     });

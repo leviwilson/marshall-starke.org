@@ -15,7 +15,7 @@ $(document).ready(function () {
             plotShadow: false
         },
         title: {
-            text: 'Proposed 2016 Expenses'
+            text: 'Proposed 2017 Expenses'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
@@ -35,12 +35,11 @@ $(document).ready(function () {
         },
         series: [{
             type: 'pie',
-            name: 'Proposed 2016 Expenses',
+            name: 'Proposed 2017 Expenses',
             data: [
-              {name: 'Program Services', y: 45.97, value: '$2,862,084'},
-              {name: 'Industrial Operations', y: 16.79, value: '$1,045,203'},
-              {name: 'HS/EHS/USDA', y: 28.51, value: '$1,775,057'},
-              {name: 'Administration', y: 8.73, value: '$543,725'}
+              {name: 'Program Services', y: 57.05, value: '$3,192,037'},
+              {name: 'HS/EHS/USDA', y: 32.05, value: '$1,793,393'},
+              {name: 'Administration', y: 10.89, value: '$609,438'}
             ]
         }]
     });
