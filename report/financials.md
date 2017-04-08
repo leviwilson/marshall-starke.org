@@ -22,3 +22,6 @@ title:  "2016 Financial Information"
 {% include revenues.proposed.2017 %}
 
 {% include expenses.proposed.2017 %}
+
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
