@@ -14,14 +14,15 @@ title:  Board & Management
     <li>Adam Lukenbill, Vice Chairman</li>
     <li>Beth Sawyer, Treasurer</li>
     <li>Terry Moore, Secretary</li>
-    <li>Nelson Chipman</li>
-    <li>Amy Mooris-Dodson</li>
-    <li>Erika Leman</li>
+
     <li>James Cheesman</li>
+    <li>Nelson Chipman</li>
+    <li>David Pearman</li>
+    <li>Amy Morris-Dodson</li>
+    <li>Erika Leman</li>
     <li>Emily King</li>
     <li>Nancy Dembowski</li>
-    <li>Joan Hough</li>
-    <li>David Pearman</li>
+    <li>Joan Haugh Beatty</li>
   </ul>
 </div>
 
