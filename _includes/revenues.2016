@@ -1,0 +1,52 @@
+<div id="revenues-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+var chart;
+
+$(document).ready(function () {
+  
+  // Build the chart
+    chart = new Highcharts.Chart({
+        chart: {
+            renderTo: 'revenues-container',
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: '2016 Revenues'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.value}</b>',
+          percentageDecimals: 1
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    formatter:  function() {
+                      return '<b>' + this.point.name + '</b><br/>' + this.point.value;
+                    }
+                },
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: '2016 Revenues',
+            data: [
+              {name: 'Other', y: 1.53, value: '$93,232'},
+              {name: 'Industrial Services', y: 7.19, value: '$437,737'},
+              {name: 'Program Services', y: 56.37, value: '$3,433,743'},
+              {name: 'Public Support', y: 5.35, value: '$325,813'},
+              {name: 'USDA', y: 1.50, value: '$91,425'},
+              {name: 'HS/EHS', y: 28.07, value: '$1,710,000'}
+            ]
+        }]
+    });
+});
+
+});
+</script>

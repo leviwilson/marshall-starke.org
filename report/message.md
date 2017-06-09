@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "2015 President's Message"
+title: "2016 President's Message"
 ---
 {% include annual.report.breadcrumb %}
 
 ## President’s Message
-Celebrating the 50th Anniversary of Marshall-Starke Development Center has made Fiscal Year 2015 very special. Reviewing old Board minutes, going through scrap books, and talking with people involved in the early years of Marshall-Starke has renewed my admiration for the folks who started this organization. So many people volunteered countless hours doing whatever was necessary to provide a better life for people with disabilities living in Marshall and Starke counties.
+It is with great humility that I write my first CEO annual report! The Board of Directors offered the position in December, which allowed for a smooth transition with Mike. I became the CEO officially, April 1, 2016. With much sadness, Marshall-Starke consumers and staff, said goodbye to Mike. Mike was the CEO for thirty years, and the impact he made at MSDC was immeasurable. We will all miss him very much, and we wish him happy trails in the next chapter of his life. Another long time employee, Christie Rice, also retired this year. Christie held various positions over her 33 years at MSDC, and was always a strong advocate for the individuals with disabilities we serve. She too will be greatly missed by consumers and staff.
 
-I want to thank all those people who worked so tirelessly so that Marshall-Starke Development Center could provide programs and services for those in need. I have been extremely fortunate to be the CEO of this organization for 29 of those 50 years. I hope the founders are pleased and proud of the accomplishments we have made. We have experienced growth in both numbers of people served, and the opportunities provided to them. I am most proud of the fact that for 50 years the mission of Marshall Starke Development Center has consistently been to train, educate, and advocate.
+While 2016 was a time of change in leadership, there were also many other changes. Before retiring, Mike made the decision to close MSDC's factory, Real Products. The factory was always intended to support MSDC's adult programs, but when the economy was bad and business was lost, Real Products never fully recovered. With the closing of the factory, there was a large space no longer being used. With a large increase in enrollment in adult programs, the decision was made to move our Community Crossroads program to the factory area. MSDC was able to purchase two new heating and air conditioning units, paint the walls and floor, replace a garage door, refurbish four staff offices, and build a new ramp for greater accessibility. MSDC started a seniorâ€™s program in May. The program has been very successful and is enjoyed by everyone enrolled in the program.
 
-I am confident MSDC will continue to grow, prosper, and serve. Once again, I want to thank all of those who have made this possible.
+MSDC's Head Start program has completed all of the required federal reviews, and will not be reviewed again for at least two years. All the reviews had excellent results with only one total finding. There will be changes coming for Head Start in the future, as Head Start moves to offer a longer school day and school year by 2021.
 
-![Michael Lintner](/images/mike_signature.png)
+MSDC has great program participants and staff. We look forward to the possibilities of the new year!
 
-<h4 class="subheader" id="overview">Michael Lintner</h4>
+<h4 class="subheader" id="overview">Jodie Smith</h4>
 President & Chief Executive Officer  
 Marshall-Starke Development Center

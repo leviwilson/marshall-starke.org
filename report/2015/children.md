@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "2016 Accomplishments (Children)"
+title:  "2015 Accomplishments (Children)"
 ---
 {% include annual.report.breadcrumb %}
 
@@ -16,20 +16,17 @@ title:  "2016 Accomplishments (Children)"
 <h4 class="subheader" id="overview">OVERVIEW</h4>
 The Division of Children's Services is composed of three principle programs: Head Start, Early Head Start and Early Childhood Vocational Education.
 
-Our Head Start and Early Head Start programs provide children and their families with education, health, nutrition, and social services. Services are responsive to each child's and family's ethnic, cultural, and linguistic heritage.
+Our Head Start and Early Head Start programs provide children and their families with education, health. nutrition, and social services. Services are responsive to each child's and family's ethnic. cultural. and linguistic heritage.
 
-Head Start for children 3-5 years of age supports parents as their child's first and most important teachers. Head Start builds relationships with families that support positive parent-child interactions, family well-being, and connections to peers and community.
+Head Start for children 3-5 years of age supports parents as their child's first and most important teachers. Head Start builds relationships with families that support positive parent-child interactions, family well-beine„ and connections to peers and community.
 
 Early Head Start serves pregnant women, infants, and toddlers. Early Head Start helps families care for their infants and toddlers through early, continuous, intensive, and comprehensive services.
 
 Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined total of 222 childern 0-5 years of age inclusive of pregnant women, Our service area is comprised of Marshall and Starke Counties.
 
-Marshall-Starke HS and EHS maintained active waitlists. Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 222 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2016 the programs' combined cumulative enrollment was 322 children. Fifty-four (54) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
+Marshall-Starke HS and EHS maintained active waitlists. Unfortunately. not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 222 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2015 the programs' combined cumulative enrollment was 303 children. Fifty-one (51) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
 
-<h5 class="subheader">CHILD OUTCOME DATA</h5>
-The mission of Marshall-Starke HS and EHS is to prepare children for success in kindergarten. To provide the educational preparation expected by our local school systems and by the Office of Head Start, the programs collect and analyze child outcome data, including progress toward attainment of school readiness goals, four times per year at approximately 12 week intervals. The data is used to evaluate patterns of performance across the program and to individualize instruction for each student based on the child's strengths and needs. Outcome data drives instruction and decision making.
-Outcome data are shared with local school principals for children who will enter their kindergarten classrooms. The data show the percentage of children at the intermediate and advanced level.
-A comparative analysis of approximately 35,000 HS children reported children enrolled in Marshall-Starke HS surpassed state and national averages of other HS children in all areas: Math, Motor, Language, Logic and Reasoning, Approaches to Learning, Social Studies, Science, Social and Emotional, and Creative Arts. Approximately 95% of the HS children eligible for entry into kindergarten achieved the designated school readiness goals.
+The information gathered during a four day intensive Triennial review conducted in 2012 by a team of six federal compliance monitors, determined the programs to be in full compliance with all applicable performance standards. laws. regulations. and policy requirements.
 
 **Marshall-Starke Early Head Start (EHS)** established school readiness goals that recognize the impact of early experiences on brain development. The EHS school readiness goals acknowledge how early experiences, particularly the relationship created jointly by baby and parents, shape the foundational learning structures of the brain. The school readiness goals are relationship based and relate to early developmental milestones. The last analysis of school readiness data showed the majority of children attained age appropriate expectations.
 
@@ -50,12 +47,10 @@ The programs rely on the support and participation of community partners. Partne
 * Bella Vita
 * J.E.S.S.E.
 * North Central Area Vocational Cooperative
-* and Council on Aging
-* Bremen Schools
-* Marshall County Child Protection Team
+* Council on Aging
 
 <h4 class="subheader" id="outcomes">MONITORING OUTCOMES</h4>
-In 2016 the Administration for Children and Families (ACF) conducted a Leadership, Program Governance and Management Systems Review. The programs were found to be in full compliance with all federal regulations and performance standards. Internal monitoring of class scores reported averages above the national median in all the areas: Emotional Support, Classroom Organization and Instructional Support.
+In 2015 the Administration for Children and Families (ACF) conducted a Comprehensive Services/School Readiness Review. The programs were found to be in full compliance with all federal regulations and performance standards. The 2015 National CLAS Scores showed our Head Start program to be just shy of the highest 1010 for Emotional Support and Classroom Organization. And just under the median national score for Instructional Support.
 
 All local and state fire, health, and sanitation inspections reported no concerns. The results of the most recent financial audit expressed "an unqualified opinion on all major federal programs" with "no instance of noncompliance material, qualifying MSDC as a low risk auditee."
 
@@ -76,19 +71,19 @@ All local and state fire, health, and sanitation inspections reported no concern
       <td>40</td>
     </tr>
     <tr>
-      <td>2015 Cumulative Enrollment</td>
-      <td>244</td>
-      <td>78</td>
+      <td>2014 Cumulative Enrollment</td>
+      <td>233</td>
+      <td>70</td>
     </tr>
     <tr>
       <td>Number of EHS Pregnant Women</td>
       <td>N/A</td>
-      <td>7</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Total Number of Children with a Disability</td>
-      <td>21</td>
-      <td>0</td>
+      <td>29</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>Percentage of children with a continuous source of preventive medical and dental care.</td>
@@ -107,7 +102,7 @@ All local and state fire, health, and sanitation inspections reported no concern
     </tr>
     <tr>
       <td>Percentage of families experiencing homelessness</td>
-      <td>1%</td>
+      <td>0%</td>
       <td>0%</td>
     </tr>
     <tr>
@@ -144,17 +139,17 @@ All local and state fire, health, and sanitation inspections reported no concern
     <tbody>
       <tr>
           <td>Parent/Relative</td>
-          <td>371</td>
+          <td>301</td>
       </tr>
       <tr>
           <td>Community Volunteers</td>
-          <td>395</td>
+          <td>383</td>
       </tr>
     </tbody>
 </table>
 
 <h5 class="subheader">EARLY CHILDHOOD VOCATIONAL EDUCATION</h5>
-Now in its 14th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 275 students have completed the Early Childhood Vocational Education Program.
+Now in its 13th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 275 students have completed the Early Childhood Vocational Education Program.
 
 The students receive in-class instruction supplemented with direct vocational experience in Head Start and Kindergarten classrooms. Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is a valuable in-kind contribution.
 
@@ -172,86 +167,76 @@ Our Head Start Program employs four graduates of the Early Childhood Vocational 
   <tbody>
     <tr>
       <td>Income below 100% of federal poverty</td>
-      <td>167</td>
-      <td>32</td>
+      <td>154</td>
+      <td>33</td>
     </tr>
     <tr>
       <td>Receipt of Public Assistance</td>
-      <td>17</td>
-      <td>6</td>
+      <td>27</td>
+      <td>13</td>
     </tr>
     <tr>
       <td>Status as Foster Care</td>
-      <td>10</td>
       <td>6</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Over Income</td>
-      <td>19</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Homeless</td>
-      <td>2</td>
-      <td>0</td>
+      <td>46</td>
+      <td>22</td>
     </tr>
     <tr><td><strong>Primary Language</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>English</td>
-      <td>225</td>
-      <td>61</td>
+      <td>214</td>
+      <td>55</td>
     </tr>
     <tr>
       <td>Spanish</td>
       <td>19</td>
-      <td>17</td>
+      <td>15</td>
     </tr>
     <tr><td><strong>Ethnicity</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Ethnicity Hispanic or Latin Origin</td>
-      <td>16</td>
-      <td>21</td>
+      <td>32</td>
+      <td>22</td>
     </tr>
     <tr>
       <td>Non-Hispanic or Latin Origin</td>
-      <td>224</td>
-      <td>55</td>
-    </tr>
-    <tr>
-      <td>Other</td>
-      <td>4</td>
-      <td>2</td>
+      <td>201</td>
+      <td>48</td>
     </tr>
     <tr><td><strong>Families</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Number of Families</td>
-      <td>225</td>
-      <td>63</td>
+      <td>197</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>Two Parent Families</td>
-      <td>123</td>
-      <td>52</td>
+      <td>51%</td>
+      <td>79%</td>
     </tr>
     <tr>
       <td>Single Parent Families</td>
-      <td>102</td>
-      <td>11</td>
+      <td>49%</td>
+      <td>21%</td>
     </tr>
     <tr><td><strong>Employment (At Time of Enrollment)</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr><td><strong>Percentage of Two Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
-      <td>One or Both Parents Employed</td>
-      <td>89%</td>
-      <td>88%</td>
+        <td>One or Both Parents Employed</td>
+        <td>89%</td>
+        <td>91%</td>
     </tr>
     <tr><td><strong>Percentage of Single Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
-      <td>Parent Employed</td>
-      <td>50%</td>
-      <td>45%</td>
+        <td>Parent Employed</td>
+        <td>53%</td>
+        <td>17%</td>
     </tr>
   </tbody>
 </table>
 
-Eighty-four (84) percent of our Head Start families and 83% of our Early Head Start families have a parent who graduated from high school.
+Eighty-one (81) percent of our Head Start families and 83% of our Early Head Start families have a parent who graduated from high school. 
