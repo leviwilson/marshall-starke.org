@@ -146,19 +146,19 @@ All local and state fire, health, and sanitation inspections reported no concern
     <tbody>
       <tr>
           <td>Parent/Relative</td>
-          <td>371</td>
+          <td>251</td>
       </tr>
       <tr>
           <td>Community Volunteers</td>
-          <td>395</td>
+          <td>252</td>
       </tr>
     </tbody>
 </table>
 
 <h5 class="subheader">EARLY CHILDHOOD VOCATIONAL EDUCATION</h5>
-Now in its 14th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 275 students have completed the Early Childhood Vocational Education Program.
+Now in its 15th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education. The course is available to students attending 10 area high schools. Since it's inception over 305 students have completed the Early Childhood Vocational Education Program.
 
-The students receive in-class instruction supplemented with direct vocational experience in Head Start and Kindergarten classrooms. Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is a valuable in-kind contribution.
+The students receive in-class instruction supplemented with direct vocational experience in Head Start, and public and private childcare homes and centers, and Kindergarten classrooms. Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits. The college credits are issued by Indiana Ivy Tech College. The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education. This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction. The student volunteer time is a valuable in-kind contribution.
 
 Our Head Start Program employs four graduates of the Early Childhood Vocational Education Program who following graduation from the program completed college degrees in Early Childhood Education.
 
@@ -174,86 +174,86 @@ Our Head Start Program employs four graduates of the Early Childhood Vocational 
   <tbody>
     <tr>
       <td>Income below 100% of federal poverty</td>
-      <td>167</td>
-      <td>32</td>
+      <td>113</td>
+      <td>37</td>
     </tr>
     <tr>
       <td>Receipt of Public Assistance</td>
-      <td>17</td>
-      <td>6</td>
+      <td>11</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Status as Foster Care</td>
+      <td>13</td>
       <td>10</td>
-      <td>6</td>
     </tr>
     <tr>
       <td>Over Income</td>
-      <td>19</td>
-      <td>5</td>
+      <td>16</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Homeless</td>
-      <td>2</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr><td><strong>Primary Language</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>English</td>
-      <td>225</td>
-      <td>61</td>
+      <td>167</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>Spanish</td>
-      <td>19</td>
-      <td>17</td>
+      <td>13</td>
+      <td>11</td>
     </tr>
     <tr><td><strong>Ethnicity</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
-      <td>Ethnicity Hispanic or Latin Origin</td>
+      <td>Hispanic or Latin Origin</td>
+      <td>24</td>
       <td>16</td>
-      <td>21</td>
     </tr>
     <tr>
       <td>Non-Hispanic or Latin Origin</td>
-      <td>224</td>
-      <td>55</td>
+      <td>144</td>
+      <td>46</td>
     </tr>
     <tr>
       <td>Other</td>
-      <td>4</td>
-      <td>2</td>
+      <td>7</td>
+      <td>5</td>
     </tr>
     <tr><td><strong>Families</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Number of Families</td>
-      <td>225</td>
-      <td>63</td>
+      <td>156</td>
+      <td>54</td>
     </tr>
     <tr>
       <td>Two Parent Families</td>
-      <td>123</td>
-      <td>52</td>
+      <td>77</td>
+      <td>44</td>
     </tr>
     <tr>
       <td>Single Parent Families</td>
-      <td>102</td>
-      <td>11</td>
+      <td>79</td>
+      <td>10</td>
     </tr>
     <tr><td><strong>Employment (At Time of Enrollment)</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr><td><strong>Percentage of Two Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>One or Both Parents Employed</td>
-      <td>89%</td>
-      <td>88%</td>
+      <td>87%</td>
+      <td>86%</td>
     </tr>
     <tr><td><strong>Percentage of Single Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
       <td>Parent Employed</td>
-      <td>50%</td>
       <td>45%</td>
+      <td>50%</td>
     </tr>
   </tbody>
 </table>
 
-Eighty-four (84) percent of our Head Start families and 83% of our Early Head Start families have a parent who graduated from high school.
+Eighty-two (82) percent of our Head Start families and 56% of our Early Head Start families have a parent who graduated from high school.
