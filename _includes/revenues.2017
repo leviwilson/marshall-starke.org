@@ -15,7 +15,7 @@ $(document).ready(function () {
             plotShadow: false
         },
         title: {
-            text: '2016 Revenues'
+            text: '2017 Revenues'
         },
         tooltip: {
           pointFormat: '{series.name}: <b>{point.value}</b>',
@@ -35,14 +35,13 @@ $(document).ready(function () {
         },
         series: [{
             type: 'pie',
-            name: '2016 Revenues',
+            name: '2017 Revenues',
             data: [
-              {name: 'Other', y: 1.53, value: '$93,232'},
-              {name: 'Industrial Services', y: 7.19, value: '$437,737'},
-              {name: 'Program Services', y: 56.37, value: '$3,433,743'},
-              {name: 'Public Support', y: 5.35, value: '$325,813'},
-              {name: 'USDA', y: 1.50, value: '$91,425'},
-              {name: 'HS/EHS', y: 28.07, value: '$1,710,000'}
+              { name: 'Other', y: 0.76, value: '$45,088' },
+              { name: 'Program Services', y: 62.11, value: '$3,678,749' },
+              { name: 'Public Support', y: 5.22, value: '$308,943' },
+              { name: 'USDA', y: 1.49, value: '$87,966' },
+              { name: 'HS/EHS', y: 30.43, value: '$1,802,504' }
             ]
         }]
     });

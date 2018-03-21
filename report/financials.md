@@ -4,14 +4,7 @@ title:  "2017 Financial Information"
 ---
 {% include annual.report.breadcrumb %}
 
-## 2017 Financial Information
-
-<dl class="tabs pill">
-  <dd><a href="#current">Current</a></dd>
-  <dd><a href="#proposed">Proposed</a></dd>
-</dl>
-
-<h4 class="subheader" id="current">CURRENT (July 01, 2016 - June 30, 2017)</h4>
+<h2>2017 Financial Information <small class="subheader" id="current">(July 01, 2016 - June 30, 2017)</small></h2>
 
 {% include revenues.2017 %}
 
