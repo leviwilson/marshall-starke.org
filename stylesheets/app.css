@@ -11,6 +11,18 @@
   background: url(../images/navbg.gif) repeat-x bottom;
 }
 
+.th.left {
+  margin-right: 15px;
+}
+
+.th.right {
+  margin-left: 15px;
+}
+
+.clearfix {
+  clear: both;
+}
+
 /* same as foundation */
 ul { margin-left: 17px; }
 
