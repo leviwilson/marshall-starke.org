@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "2015 Accomplishments (Adults)"
+title:  "2017 Accomplishments (Adults)"
 ---
 {% include annual.report.breadcrumb %}
 
@@ -12,21 +12,17 @@ title:  "2015 Accomplishments (Adults)"
 </dl>
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
-In April we hired a new staff. Her title is Residential Habilitation Services (RHS) Evening Supervisor. This supervisor will work some evenings every week to observe at the Residential sites. She will be able to troubleshoot for consumers and Direct Support Professional (DSP) staff. She will also be completing monthly environmental checks for safety, observe medication passes to be sure DSP staff are following procedure, check smoke alarms and address any issues that need attention. RHS Evening Supervisor is also responsible for staffing scheduling shifts and is on call 24/7.
+This past year has been filled with many changes. Staffing for the program has been difficult. We have had a shortage of staff for about 2 years. We need at least six (6) staff to fill our current open positions.
 
-We have had three (3) new consumers join our Supported Living Program in the last year. We are happy to have current openings available.
+The Supported Living consumers made some physical moves last summer and it has worked out well for them. They individually determined what house they would like to move into and who they wanted to live with. Some of them wanted a change of housemates; others were interested in a different more accessible home, so it worked out well for everyone involved.
 
-In August we began transferring RHS consumers from Day Services to our Residential/Supported Living Program. This brought our numbers to 27. Our consumers live in residential sites either alone, sharing a house with peers or in the family home. We offer staff support to meet the consumers needs and budget. We will continue to transfer RHS consumers to this program.
+MSDC sold our supported living site in Rochester last fall and purchased a duplex in Rochester instead. The duplex was renovated and turned into a single family home for our Rochester consumers. It is four (4) bedrooms, 2 handicapped accessible bathrooms, 3 living areas and large kitchen. Consumers moved after the first of the year.
 
-We have also been looking forward to some reorganization in our Supported Living sites. There have been a few consumer changes in the last year and we want to be sure each consumer is living in a home that best suits their needs and also gives them the opportunity to live with different peers if they don't currently have a good match.
+We had six (6) consumers attend different summer camps this past year. All our consumers attended MSDC CAMPOUT at Camp Millhouse last September. This is the first time we used this facility and it was wonderful! Everyone had comfortable sleeping arrangements, great food and activities. Many consumers swam in the pool, enjoyed the campfires and we had community volunteers offering motorcycle rides to anyone interested.
 
-We have been struggling to hire and obtain DSP staff for several months. Recently we have hired several new staff and have been able to fill numerous shifts.
+This past year our consumers had a lot of fun doing the things they love. Special Olympics bowling, concerts in the park, Niles Scream Park, Hall of Heroes Comic Con, cookouts, fishing, holiday parties, Theatre, Turkey Tracks Hunt, Shipshewana Ice Sculpture Show, Popcorn Festival, 4H Fairs, MSDC Prom, Night to Shine Prom, Fall Dance, Firemen's Festival in Bremen, Bingo, Showland Theatre, celebrating birthdays, going on dates, Blueberry Festival, Cupcakes and Canvas class at the library, church, touring museums and shopping at the Mall.
 
-We were able to have our Summer Camp again this year. The location was at Tippecanoe State Park. Most of our RHS and Supported Living consumers attend this and spend a couple of nights in the cabins we rent. This is always a highlight of our summer. Other campers attend camps such as Camp Millhouse, ReYoAd and Camp Red Cedar. New friends are made and old relationships rekindled.
-
-We work hard to give our consumers many different opportunities. In the past year, consumers have attended the following events: Turkey Tracks Hunt, Colts Game, Niles Scream Park, Cupcakes and Canvas class, News Boys Concert at Morris Civic, Cavalcade of Wheels, toured a Brewery, Potawatomi Zoo, MSDC/FOP Prom at the Moose, Residential Christmas Dinner Party, attended the Blueberry Festival, Fireman's Festival, Wizard of Oz play, Apple Orchard tour, 42nd Street play at the Century Center, Red Bud Trail event, Mentone Egg Festival, and saw Great White and Dokken Concert.
-
-We look forward to another eventful year!
+Next year we hope to grow as a program and find many more exciting things to do!
 
 <h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 Community Crossroads has had a an amazing year in the new Pod setting. Currently, 243 consumers are being served. There does seem to be a trend with individuals choosing part-time group schedules and electing to have one-on-one services in their plans. We are happy to offer our consumers a variety of options to meet to the consumer's individual needs. Our consumers enjoy Group Community outings, which is a great time to volunteer and give back to the communities in which they live as well as participation in meaningful social outings with peers. Our year of extra-curricular events included the Annual Camping Trip in August, the fall party in October and our annual prom in May. These events are very important to the consumers that we serve. Facility Based Groups are provided daily by 5 trainers. Each day, consumers have approximately 16 Facility Based choices of groups which they may attend. Facility based groups are learning opportunities that assist our consumers in developing new skills as well as retaining old skills. In Plymouth, our transportation routes have increased.
