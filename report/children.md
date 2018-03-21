@@ -14,6 +14,11 @@ title:  "2017 Accomplishments (Children)"
 </dl>
 
 <h4 class="subheader" id="overview">OVERVIEW</h4>
+
+<div class="four right th">
+  <img alt="Mother and child" src="/images/children/ehs_2017_report.jpg">
+</div>
+
 The Division of Children's Services is composed of three principle programs: Head Start, Early Head Start and Early Childhood Vocational Education.
 
 Our Head Start and Early Head Start programs provide children and their families with education, health, nutrition, and social services. Services are responsive to each child's and family's ethnic, cultural, and linguistic heritage.
@@ -27,6 +32,11 @@ Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined tot
 Marshall-Starke HS and EHS maintained active waitlists. Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 188 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2017 the programs' combined cumulative enrollment was 249 children. Four-tow (42) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
 
 <h5 class="subheader">CHILD OUTCOME DATA</h5>
+
+<div class="four right th">
+  <img alt="Child enjoying spaghetti" src="/images/children/kid_eating.jpg">
+</div>
+
 The mission of Marshall-Starke HS and EHS is to prepare children for success in kindergarten. To provide the educational preparation expected by our local school systems and by the Office of Head Start, the programs collect and analyze child outcome data, including progress toward attainment of school readiness goals, four times per year at approximately 12 week intervals. The data is used to evaluate patterns of performance across the program and to individualize instruction for each student based on the child's strengths and needs. Outcome data drives instruction and decision making.
 
 Outcome data are shared with local school principals for children who will enter their kindergarten classrooms. The data show the percentage of children at the intermediate and advanced level.
