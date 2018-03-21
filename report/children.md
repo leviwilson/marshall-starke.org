@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "2016 Accomplishments (Children)"
+title:  "2017 Accomplishments (Children)"
 ---
 {% include annual.report.breadcrumb %}
 
@@ -22,9 +22,9 @@ Head Start for children 3-5 years of age supports parents as their child's first
 
 Early Head Start serves pregnant women, infants, and toddlers. Early Head Start helps families care for their infants and toddlers through early, continuous, intensive, and comprehensive services.
 
-Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined total of 222 childern 0-5 years of age inclusive of pregnant women, Our service area is comprised of Marshall and Starke Counties.
+Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined total of 188 childem 0-5 years of age inclusive of pregnant women, Our service area is comprised of Marshall and Starke Counties.
 
-Marshall-Starke HS and EHS maintained active waitlists. Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 222 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2016 the programs' combined cumulative enrollment was 322 children. Fifty-four (54) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
+Marshall-Starke HS and EHS maintained active waitlists. Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 188 children. Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 595. In 2017 the programs' combined cumulative enrollment was 249 children. Four-tow (42) percent of the total number of eligible children were served by Marshall-Starke HS and EHS. Average daily attendance was eighty-seven (87) percent.
 
 <h5 class="subheader">CHILD OUTCOME DATA</h5>
 The mission of Marshall-Starke HS and EHS is to prepare children for success in kindergarten. To provide the educational preparation expected by our local school systems and by the Office of Head Start, the programs collect and analyze child outcome data, including progress toward attainment of school readiness goals, four times per year at approximately 12 week intervals. The data is used to evaluate patterns of performance across the program and to individualize instruction for each student based on the child's strengths and needs. Outcome data drives instruction and decision making.
