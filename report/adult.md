@@ -20,6 +20,10 @@ MSDC sold our supported living site in Rochester last fall and purchased a duple
 
 We had six (6) consumers attend different summer camps this past year. All our consumers attended MSDC CAMPOUT at Camp Millhouse last September. This is the first time we used this facility and it was wonderful! Everyone had comfortable sleeping arrangements, great food and activities. Many consumers swam in the pool, enjoyed the campfires and we had community volunteers offering motorcycle rides to anyone interested.
 
+<div class="five right th">
+  <img alt="Adults enjoying some bumper cars" src="/images/adult/adult_bumper_cars.jpg">
+</div>
+
 This past year our consumers had a lot of fun doing the things they love. Special Olympics bowling, concerts in the park, Niles Scream Park, Hall of Heroes Comic Con, cookouts, fishing, holiday parties, Theatre, Turkey Tracks Hunt, Shipshewana Ice Sculpture Show, Popcorn Festival, 4H Fairs, MSDC Prom, Night to Shine Prom, Fall Dance, Firemen's Festival in Bremen, Bingo, Showland Theatre, celebrating birthdays, going on dates, Blueberry Festival, Cupcakes and Canvas class at the library, church, touring museums and shopping at the Mall.
 
 Next year we hope to grow as a program and find many more exciting things to do!
