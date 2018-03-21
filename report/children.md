@@ -33,6 +33,10 @@ Outcome data are shared with local school principals for children who will enter
 
 A comparative analysis of approximately 35,000 HS children reported children enrolled in Marshall-Starke HS surpassed state and national averages of other HS children in all areas: Math, Motor, Language, Logic and Reasoning, Approaches to Learning, Social Studies, Science, Social and Emotional, and Creative Arts. Approximately 96% of the HS children eligible for entry into kindergarten achieved the designated school readiness goals.
 
+**Marshall-Starke Early Head Start (EHS)** established school readiness goals that recognize the impact of early experiences on brain development. The EHS school readiness goals acknowledge how early experiences, particularly the relationship created jointly by baby and parents, shape the foundational learning structures of the brain. The school readiness goals are relationship based and relate to early developmental milestones. The last analysis of school readiness data showed the majority of children attained age appropriate expectations.
+
+Because supporting children's readiness is an ongoing partnership between staff and families the program implemented the Parent, Family, Community Engagement Framework. The Framework is a tool for engaging families and supporting children's ongoing learning and development. The role of parents in their child's education should not be understated. Parent engagement is considered by this program to be a school readiness goal. The program successfully achieved 100% parent participation in parent-teacher conferences and initial home visits.
+
 <h4 class="subheader" id="connections">COMMUNITY CONNECTIONS</h4>
 The programs rely on the support and participation of community partners. Partnership relationships exist with the following agencies:
 
@@ -48,14 +52,14 @@ The programs rely on the support and participation of community partners. Partne
 * Bella Vita
 * J.E.S.S.E.
 * North Central Area Vocational Cooperative
-* and Council on Aging
+* Council on Aging
 * Bremen Schools
 * Marshall County Child Protection Team
 
 <h4 class="subheader" id="outcomes">MONITORING OUTCOMES</h4>
-In 2016 the Administration for Children and Families (ACF) conducted a Leadership, Program Governance and Management Systems Review. The programs were found to be in full compliance with all federal regulations and performance standards. Internal monitoring of class scores reported averages above the national median in all the areas: Emotional Support, Classroom Organization and Instructional Support.
+In 2017 the Administration for Children and Families (ACF) did not schedule monitoring events. Internal monitoring of CLASS scores reported averages above the national median in all the areas: Emotional Support, Classroom Organization and Instructional Support.
 
-All local and state fire, health, and sanitation inspections reported no concerns. The results of the most recent financial audit expressed "an unqualified opinion on all major federal programs" with "no instance of noncompliance material, qualifying MSDC as a low risk auditee."
+All local and state fire, health, and sanitation inspections reported no concerns. The results of the most recent financial audit expressed "an unqualified opinion on all major federal programs" with "no instance of noncompliance material, qualifying MSDC as a low risk auditee." All facilities meet childcare licensing requirements. Our Head Start program initiated participation in Paths to Quality and completed Level 1.
 
 <h4 class="subheader" id="performance">HEAD START &amp; EARLY HEAD START PERFORMANCE INDICATORS</h4>
 
