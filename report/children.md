@@ -74,23 +74,23 @@ All local and state fire, health, and sanitation inspections reported no concern
   <tbody>
     <tr>
       <td>Funded Enrollment</td>
-      <td>182</td>
+      <td>148</td>
       <td>40</td>
     </tr>
     <tr>
-      <td>2015 Cumulative Enrollment</td>
-      <td>244</td>
-      <td>78</td>
+      <td>Cumulative Enrollment</td>
+      <td>180</td>
+      <td>69</td>
     </tr>
     <tr>
       <td>Number of EHS Pregnant Women</td>
       <td>N/A</td>
-      <td>7</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Total Number of Children with a Disability</td>
-      <td>21</td>
-      <td>0</td>
+      <td>28</td>
+      <td>14</td>
     </tr>
     <tr>
       <td>Percentage of children with a continuous source of preventive medical and dental care.</td>
@@ -98,13 +98,13 @@ All local and state fire, health, and sanitation inspections reported no concern
       <td>100%</td>
     </tr>
     <tr>
-      <td>Percentage of children with up-to-date immunizations all possible immunizations to date</td>
-      <td>97%</td>
-      <td>100%</td>
+      <td>Percentage of children with up-to-date immunizations, all possible immunizations to date</td>
+      <td>94%</td>
+      <td>98%</td>
     </tr>
     <tr>
       <td>The percentage of children diagnosed with a chronic health condition who received medical treatment</td>
-      <td>100%</td>
+      <td>90%</td>
       <td>100%</td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@ All local and state fire, health, and sanitation inspections reported no concern
     </tr>
     <tr>
       <td>Average Monthly Attendance</td>
-      <td>87%</td>
+      <td>85%</td>
       <td>N/A</td>
     </tr>
     <tr>
@@ -125,11 +125,11 @@ All local and state fire, health, and sanitation inspections reported no concern
     <tr>
       <td>Percentage of pregnant women who received postpartum health care</td>
       <td>N/A</td>
-      <td>100%</td>
+      <td>80%</td>
     </tr>
     <tr>
       <td>Percentage of children who are up-to-date on a schedule of age appropriate preventive oral health care.</td>
-      <td>100%</td>
+      <td>95%</td>
       <td>100%</td>
     </tr>
   </tbody>
