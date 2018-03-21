@@ -4,14 +4,12 @@ title: "2017 President's Message"
 ---
 {% include annual.report.breadcrumb %}
 
-## President’s Message
-It is with great humility that I write my first CEO annual report! The Board of Directors offered the position in December, which allowed for a smooth transition with Mike. I became the CEO officially, April 1, 2016. With much sadness, Marshall-Starke consumers and staff, said goodbye to Mike. Mike was the CEO for thirty years, and the impact he made at MSDC was immeasurable. We will all miss him very much, and we wish him happy trails in the next chapter of his life. Another long time employee, Christie Rice, also retired this year. Christie held various positions over her 33 years at MSDC, and was always a strong advocate for the individuals with disabilities we serve. She too will be greatly missed by consumers and staff.
+## C.E.O.'s Chat
+Where has the year gone? Fiscal year 2017 I celebrated one year as CEO. Mike and I worked to make the transition a smooth one. The past year has been challenging, but rewarding.
 
-While 2016 was a time of change in leadership, there were also many other changes. Before retiring, Mike made the decision to close MSDC's factory, Real Products. The factory was always intended to support MSDC's adult programs, but when the economy was bad and business was lost, Real Products never fully recovered. With the closing of the factory, there was a large space no longer being used. With a large increase in enrollment in adult programs, the decision was made to move our Community Crossroads program to the factory area. MSDC was able to purchase two new heating and air conditioning units, paint the walls and floor, replace a garage door, refurbish four staff offices, and build a new ramp for greater accessibility. MSDC started a seniorâ€™s program in May. The program has been very successful and is enjoyed by everyone enrolled in the program.
+The staffing crisis, which is affecting all agencies across Indiana, has been our largest obstacle. We still don't have the answers, but are hopeful the Direct Support Professional wage increase approved by our State legislatures will bring some relief.
 
-MSDC's Head Start program has completed all of the required federal reviews, and will not be reviewed again for at least two years. All the reviews had excellent results with only one total finding. There will be changes coming for Head Start in the future, as Head Start moves to offer a longer school day and school year by 2021.
-
-MSDC has great program participants and staff. We look forward to the possibilities of the new year!
+I look forward to 2018 and to forging head first into our agency goals and objectives.
 
 <h4 class="subheader" id="overview">Jodie Smith</h4>
 President & Chief Executive Officer  

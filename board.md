@@ -18,7 +18,6 @@ title:  Board & Management
     <li>James Cheesman</li>
     <li>Nelson Chipman</li>
     <li>David Pearman</li>
-    <li>Amy Morris-Dodson</li>
     <li>Erika Leman</li>
     <li>Emily King</li>
     <li>Nancy Dembowski</li>
