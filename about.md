@@ -14,4 +14,4 @@ Again with the help of the community and grants, we were able to contruct Kaleid
 
 Over the years, quality programs evolved. In June of 1994, Marshall-Starke and the Fulton County ARC, d.b.a., Manitou Center, merged to enhance and expand adult programs and services. In addition in 1995, Marshall-Starke purchased Real Products. This industry is housed in the Marshall-Starke workshop and manufactures wooded reels for the wire industry. While employing traditional workers, Real Products also provides job placement and work opportunities for individuals enrolled in Marshall-Starke programs. Marshall-Starke continued to grow with the addition of the Early Head Start program in 1998. The Early Head Start program provides services to pregnant women, infants/toddlers and families.
 
-Through all of our programs, our industrial market, and our continuing dedication to service, Marshall-Starke, Inc. strives to be a viable, marketable asset to the communities and individuals we serve.
+Through all of our programs and our continuing dedication to service, Marshall-Starke, Inc. strives to be a viable, marketable asset to the communities and individuals we serve.
