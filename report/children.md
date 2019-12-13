@@ -7,13 +7,108 @@ title:  "2018 Accomplishments (Children)"
 ## Children's Programs: Highlights and Accomplishments
 
 <dl class="tabs pill">
-  <dd><a href="#connections">Community Connections</a></dd>
-  <dd><a href="#outcomes">Monitoring Outcomes</a></dd>
+  <dd><a href="#early-childhood">Early Childhood Vocational Education</a></dd>
   <dd><a href="#performance">Performance Indicators</a></dd>
   <dd><a href="#volunteers">Volunteers</a></dd>
 </dl>
 
-<h5 class="subheader">EARLY CHILDHOOD VOCATIONAL EDUCATION</h5>
+<h5 class="subheader" id="kaleidoscope">KALEIDOSCOPE CHILDREN'S CENTER</h5>
+<table class="responsive">
+  <thead>
+    <tr>
+      <th>Number of Enrollees</th>
+      <th>HS</th>
+      <th>EHS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Income below 100% of federal poverty</td>
+      <td>101</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Receipt of Public Assistance</td>
+      <td>18</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Status as Foster Care</td>
+      <td>20</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Over Income</td>
+      <td>16</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Homeless</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+    <tr><td><strong>Primary Language</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr>
+      <td>English</td>
+      <td>176</td>
+      <td>57</td>
+    </tr>
+    <tr>
+      <td>Spanish</td>
+      <td>12</td>
+      <td>15</td>
+    </tr>
+    <tr><td><strong>Ethnicity</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr>
+      <td>Hispanic or Latin Origin</td>
+      <td>27</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>Non-Hispanic or Latin Origin</td>
+      <td>145</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <td>Other</td>
+      <td>14</td>
+      <td>1</td>
+    </tr>
+    <tr><td><strong>Families</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr>
+      <td>Number of Families</td>
+      <td>151</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>Two Parent Families</td>
+      <td>97</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>Single Parent Families</td>
+      <td>54</td>
+      <td>8</td>
+    </tr>
+    <tr><td><strong>Employment (At Time of Enrollment)</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td><strong>Percentage of Two Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr>
+      <td>One or Both Parents Employed</td>
+      <td>79%</td>
+      <td>76%</td>
+    </tr>
+    <tr><td><strong>Percentage of Single Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr>
+      <td>Parent Employed</td>
+      <td>51%</td>
+      <td>37%</td>
+    </tr>
+  </tbody>
+</table>
+
+Seventy-Three (73) percent of our Head Start families and 44% of our Early Head Start families have a parent who graduated from high school.
+
+<h4 class="subheader" id="early-childhood">EARLY CHILDHOOD VOCATIONAL EDUCATION</h4>
 Now in its 16th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education.  The course is available to students attending 10 area high schools. Since it's inception over 335 students have completed the Early Childhood Vocational Education Program.
 
 The students receive in-class instruction supplemented with direct vocational experience in Head Start, and public and private childcare homes and centers, and  Kindergarten classrooms.  Students may earn six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits.  The college credits are issued by Indiana Ivy Tech College.  The majority of students who complete the Early Childhood Vocational Education Program pursue post secondary education.  This partnership affords the students vocational experience in the field of ECE while benefitting Head Start children with individual attention and interaction.  The student volunteer time is a valuable in-kind contribution.
