@@ -31,8 +31,49 @@ Manitou Training Center offers a range of community and facility based groups to
 In 2018, the exterior of the building was painted with the funds raised from the Non-Event-Event. The landscape around the building was updated and landscape rock installed. Ipads and keyboards were purchased for the technology classes from the Rob Wilson Memorial Fund.
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
-It has been a year of changes for Employment Services. With funds from the Establishment Project, we were able to hire a new full-time Employment Consultant. We are ready and waiting for the influx of consumers that is expected in the fall of 2017 with the Vocational Rehabilitation changes to serve people with the most significant disabilities. The influx did not materialize the way it was expected and VR referrals have trickled in. We are grateful that the Establishment Project has helped fund our program through this slower time for referrals.
+MSDC is in the 3rd year of a four year contract in which we receive assistance with staff wages from the Establishment Project.  We are grateful that the Establishment Project has helped fund our supported employment program and I am happy to report that we are beginning to see increases in referrals over the past year.
 
-In Fiscal Year 2017, 57 individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Starke Counties, followed by Fulton County. The majority of program participants were in their teens or early twenties, while a small percentage were in their thirties and forties. There was even one in his seventies!
+In FY'2018, 55 Individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Starke County, followed by Fulton County.
 
-There were 15 individuals placed in jobs this year. Of those individuals twelve ended in successful closures through Vocational Rehabilitation. The three not ending in successful closures either quit or were terminated, one found other employment. Of the fifteen placements this fiscal year thirteen of them were at businesses that had never hired from MSDC's Community Employment Services.
+<table class="responsive">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td>Average Hourly Wage</td>
+          <td>$9.61</td>
+      </tr>
+      <tr>
+          <td>Average Number of Individuals</td>
+          <td>26</td>
+      </tr>
+      <tr>
+          <td>Placements</td>
+          <td>20</td>
+      </tr>
+    </tbody>
+</table>
+
+<h4 class="subheader">CURRENT EMPLOYERS</h4>
+* Lowe's
+* Bob Evans
+* AK Industries
+* First Federal Savings Bank
+* Knox Community Schools
+* CJ Poly
+* Salvation Army
+* Hacienda Restaurant
+* Culver Military Academy
+* Christos' Banquet Hall
+* Putter Pit Stop
+* Marshall-Starke Development Center
+* Life Plex
+* Modern Materials, Rochester
+* McDonalds , LaPaz
+* Arby's
+* Kroger's
+* Polygon, Walkerton
