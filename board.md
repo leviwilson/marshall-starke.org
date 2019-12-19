@@ -21,7 +21,7 @@ title:  Board & Management
     <li>Emily Hutsell</li>
     <li>Melinda Straeter</li>
     <li>Nancy Dembowski</li>
-    <li>Bill Dulin</li>
+    <li>David Pearman</li>
   </ul>
 </div>
 
