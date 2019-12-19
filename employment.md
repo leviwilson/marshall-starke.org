@@ -13,7 +13,6 @@ title:  Employment
 <div class="five columns" style="float: right;">
   <div href="#" class="th">
     <img src="/images/employment.jpg" />
-    <h6 class="subheader">Pictured above are Beth Schaeffer (left) and Pat Langfeldt (right) who have worked at Marshall-Starke for 25 and 18 years respectively.</h6>
   </div>
   
 </div>
