@@ -17,7 +17,7 @@ Our program offers center-based preschool education and parent involvement activ
 ### Participation
 Participation and enrollment are voluntary and eligible families in Marshall and Starke Counties receive comprehensive early childhood services at no charge.
 
-Head Start preschool classrooms are located in Plymouth, Culver, Knox, and North Judson. The main offices are located at [Kaleidoscope Children's Center](/contacts.html) in Plymouth and St. Thomas School in Knox.
+Head Start classrooms are located in Plymouth, Bremen and Knox. The main offices are located at [Kaleidoscope Children's Center](/contacts.html) in Plymouth and St. Thomas School in Knox.
 
 ### Online Application
 If you are interested in enrolling a child in the Head Start program the online application is available in both [English](https://www.childplus.net/apply/en-us/9E20DD89A9CDD8E7D054032475D9E224/4219B46E092C8DC0BE33FBCD39BE6ABE) / [Spanish](https://www.childplus.net/apply/es/9E20DD89A9CDD8E7D054032475D9E224/4219B46E092C8DC0BE33FBCD39BE6ABE)
