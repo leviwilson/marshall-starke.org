@@ -1,33 +1,19 @@
 ---
 layout: default
-title: "2018 President's Message"
+title: "2019 President's Message"
 ---
 {% include annual.report.breadcrumb %}
 
-## C.E.O.'s Chat
-Where did another year go? I can’t believe I have been your CEO for three years already, and have loved
-every day! Our fiscal year 2018 was, as usual, a busy one. We joined our trade association, INARF, in
-advocating for a Medicaid Waiver rate increase to increase Direct Support Professional (DSP) wages.
-Indiana legislators approved a $20,000,000 per year increase in Medicaid funding to increase rates 5%.
-Agencies were mandated to pass 75% of the increased revenue through to DSPs. MSDC used the other
-25% to help pay increased taxes and other DSP benefits. We expect INARF to begin another campaign in
-2019 to increase rates to enable all agencies to increase DSPs’ base wage. MSDC will advocate for our
-DSPs in this essential request as MSDC continues to struggle to find good DSP candidates.
+## C.E.O. Message
+As I reflect on Fiscal Year 2019, the number of dedicated employees who make Marshall-Starke operate on a daily basis is amazing.  We currently employ 176 thoughtful, caring part- and full-time employees that make my job doable.  Whether working with children in Early Headstart/Headstart or working with individuals with disabilities in Community Crossroads/Employment Services their commitment is unwavering.
 
-All of Marshall-Starke’s programs continued to evolve and grow this year. Enrollment in our Day
-Services increased this year, but we also lost some old friends, which is always hard for both consumers
-and staff. Our Supported Living program maintained enrollment, but there was a large project in this
-program this year. MSDC sold the house we owned in Rochester that used to be our old group home.
-We purchased a duplex, and it didn’t take our maintenance man very long to tear down the wall between
-the two units. Our maintenance man worked hard to turn the property into a beautiful home for our
-Rochester residents. Headstart moved classrooms around, and were welcomed into the Bremen Schools
-with open arms. MSDC is working to lengthen the school day for 4 year old preschoolers for the next
-school year. Early Headstart continued to provide quality home based services. MSDC’s Vocational
-Childhood Education class enrollment increased this year. Staff was able to offer their years of life
-experiences in Childhood Education to 30 students.
+This year 235 children were served in Early Headstart and Headstart by 55 of those exceptional employees who helped children master school readiness goals.  Thirty high school students were mentored by two teachers and numerous classroom educators as they prepared for a career in Early Childhood Education.
 
-Consumers and staff look forward to what Fiscal Year 2019 holds for all of us at Marshall-Starke
-Development Center!
+In Adult Programs 121 explementary employees encouraged 257 individuals to experience a variety of life adventures.  Securing his/her first job, mastering daily living skills, developing meaningful relationships, exploring hobbies and interests, or volunteering at other non-profits were all facilitated by committed staff.
+
+This year MSDC had a goal to attract and retain a quality work force that personifies the stated values of the agency.  Management’s action steps to meet this goal were to restructure the orientation process, enhance communication across all programs, and improve professional development.  The goal and the action steps help MSDC retain the extraordinary people who give of themselves every day.
+
+We look forward to moving our mission into 2020!
 
 <h4 class="subheader" id="overview">Jodie Smith</h4>
 President & Chief Executive Officer  
