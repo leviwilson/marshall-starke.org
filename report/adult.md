@@ -40,7 +40,7 @@ MSDC offers Employment Services to individuals with disabilities that are seekin
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
 MSDC is in the 3rd year of a four year contract in which we receive assistance with staff wages from the Establishment Project.  We are grateful that the Establishment Project has helped fund our supported employment program and I am happy to report that we are beginning to see increases in referrals over the past year.
 
-In FY'2018, 55 Individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Starke County, followed by Fulton County.
+In FY'2019, 45 Individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Starke County, followed by Fulton County.
 
 <table class="responsive">
     <thead>
@@ -52,35 +52,27 @@ In FY'2018, 55 Individuals were served in Marshall-Starke Development Center's C
     <tbody>
       <tr>
           <td>Average Hourly Wage</td>
-          <td>$9.61</td>
-      </tr>
-      <tr>
-          <td>Average Number of Individuals</td>
-          <td>26</td>
+          <td>$8.99</td>
       </tr>
       <tr>
           <td>Placements</td>
-          <td>20</td>
+          <td>19</td>
       </tr>
     </tbody>
 </table>
 
 <h4 class="subheader">CURRENT EMPLOYERS</h4>
-* Lowe's
-* Bob Evans
-* AK Industries
-* First Federal Savings Bank
-* Knox Community Schools
-* CJ Poly
-* Salvation Army
-* Hacienda Restaurant
-* Culver Military Academy
-* Christos' Banquet Hall
-* Putter Pit Stop
-* Marshall-Starke Development Center
-* Life Plex
-* Modern Materials, Rochester
-* McDonalds , LaPaz
-* Arby's
+* Hacienda
+* Advance Auto
+* Taco Bell
 * Kroger's
-* Polygon, Walkerton
+* McDonald's
+* Jarrety's
+* Digger
+* Salvation Army
+* Bob Evans
+* Culver Academy
+* LifePlex
+* AK Industries
+* C J Poly
+* First Federal Bank
