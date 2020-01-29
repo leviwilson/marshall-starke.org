@@ -12,16 +12,15 @@ title:  "2019 Accomplishments (Adults)"
 </dl>
 
 <h4 class="subheader" id="supported">SUPPORTED LIVING</h4>
-In the past year, we lost one consumer due to death, two consumers exited the program to move home with family and we gained one new consumer in Rochester and another in Plymouth.  One consumer had new community employment and then lost his position.
+Within this year, we gained two new consumers to our Supported Living Program.  One of the new consumers had waited a year to enter our program and they have both become more independent. They are happy to be with us. One consumer left our program due to entering a nursing home and three children whom we gave full time services in their family home chose another provider.
 
-We sold MSDC’s Sunset Drive site in 11/2017 and moved into our new site on ManChester Drive in 01/2018. This was a great move for our consumers. They are enjoying their new home with all the amenities to make life comfortable and the home requires only minimal maintenance.
+ We hired a new RHS Evening Supervisor in September 2018. This supervisor replaced one that had left. The RHS Supervisor hires and manages the staffing, fills open shifts and attends consumer meetings. We have had much difficulty keeping enough Direct Care Staff to fill all our shifts. Many staff have worked and abundance of overtime to help out. The shortage of staffing has been our biggest concern this year.
 
-Staffing in Supported Living has continued to increase and decrease from as few as four DSP’s needed and as many as ten DSP’s needed at any given time. This seems to be an ongoing issue we have been unable to solve. We advertise on INDEED and FACEBOOK and in local newspapers. Supervisors have attended trainings on “Dealing with Difficult Employees” to “Creating a Full House”; we have increased starting wages, we are flexible with hours offered and still cannot hire enough staff.
+MSDC held summer camp at Camp Millhouse this year. It was a good space for everyone. Many consumers were in attendance and had a great time. Some consumers also attended another summer camp of their choice. There was Red Cedar Camp in Fort Wayne, Camp ReYoAd in North Webster and again Camp Millhouse. Most of these consumers received some type of financial assistance to attend for several days. These connections are important and make lifelong friendships.
 
-We had five consumers attend a summer camp of their choice. They always enjoy seeing old friends and making new connections. MSDC had our camp
-out and all was great. This is a good activity for consumers that don’t attend a community summer camp. Lots of fun was had!
+Consumers have been working on Outcome Measures (goals) to learn more independence. Many have succeeded greatly. Others are more interested in social gatherings, dating and friendships among their peers.  We have been busy with many activities such as: Notre Dame basketball game, Special Olympics, billiards has been a fun new activity, concerts and plays, musicals by Maxinkuckee Singers, fishing, picnics, cookouts, sitting by the fire pit in cool evenings, festivals, 4H Fairs, birthdays and holiday parties,  farmer’s market, swimming, YMCA for exercise, craft opportunities at the libraries, touring breweries and other businesses in our area.
 
-Our current RHS Evening Supervisor resigned and we began the search for a new supervisor.
+We look forward to another exciting and productive year.
 
 <h4 class="subheader" id="crossroads">COMMUNITY CROSSROADS</h4>
 Adult Programs here at MSDC has had another successful year.  Our enrollment remains steady, with an increase over the previous year of 13 consumers, currently serving 184 individuals with disabilities.
