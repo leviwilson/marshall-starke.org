@@ -44,5 +44,5 @@ Responsible for an individual or group of individuals, either separately or in a
 * Must have a Driver's License
 
 <h4 id="contact">Contact Us</h4>
-If you enjoy working with people and are seeking a rewarding career, Marshall-Starke may be the right place for you. For information on what positions may be available contact Human Resources at [srepp@marshall-starke.org](mailto:srepp@marshall-starke.org) or drop by one of our center locations to complete an application.
+If you enjoy working with people and are seeking a rewarding career, Marshall-Starke may be the right place for you. For information on what positions may be available contact Human Resources at [jhillman@marshall-starke.org](mailto:jhillman@marshall-starke.org) or drop by one of our center locations to complete an application.
 
