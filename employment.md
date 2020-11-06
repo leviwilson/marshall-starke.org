@@ -31,7 +31,7 @@ Marshall-Starke has an extensive range of employment opportunities from producti
 
 Marshall-Starke Development Center is accepting resumes for the position of:
 
-<h4 class="subheader">Personal/Social/Community Support Services Trainer</h4>
+<h4 class="subheader">Direct Support Professionals (DSP)</h4>
 Qualifications:  High school diploma or G.E.D. preferred, willingness to learn skills related to working with individuls with a disablity/disablities, and ability to pass drug/alcohol, tuberculosis, and criminal history.
 
 ##### Job Description
