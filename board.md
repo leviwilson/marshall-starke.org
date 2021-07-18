@@ -6,22 +6,20 @@ title:  Board & Management
   <h2>Board of Directors &amp; Management Team</h2>
 </div>
 
-
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Board</h3>
   <ul>
     <li>Adam Lukenbill – Chairman</li>
-    <li>Erika Leman – Vice Chairman</li>
+    <li>James Clevenger – Vice Chairman</li>
     <li>Joe Hunting – Treasurer</li>
     <li>Joan Haugh Beatty – Secretary</li>
-    <li>Nelson Chipman</li>
-    <li>Emily King</li>
-    <li>James Clevenger</li>
-    <li>Alison Murphy</li>
-    <li>Emily Hutsell</li>
-    <li>Melinda Straeter</li>
     <li>Nancy Dembowski</li>
     <li>David Pearman</li>
+    <li>Alison Murphy</li>
+    <li>Emily King</li>
+    <li>Nelson Chipman</li>
+    <li>Emily Hutsell</li>
+    <li>Melinda Straeter</li>
   </ul>
 </div>
 
