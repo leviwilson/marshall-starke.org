@@ -4,7 +4,7 @@ title:  "2020 Accomplishments (Children)"
 ---
 {% include annual.report.breadcrumb %}
 
-## Children's Programs: Highlights and Accomplishments
+## Division of Children’s Services:  Head Start, Early Head Start and Early Childhood Vocational Education
 
 <dl class="tabs pill">
   <dd><a href="#early-childhood">Early Childhood</a></dd>
@@ -12,6 +12,12 @@ title:  "2020 Accomplishments (Children)"
   <dd><a href="#child-outcome-data">Child Outcome Data</a></dd>
   <dd><a href="#average-attendance">HS/EGS Enrollment</a></dd>
 </dl>
+
+The year 2020 witnessed a world-wide coronavirus pandemic.  The pandemic triggered the Governor’s Executive Order to stay at home.  Local and State health authorities curtailed in-person classes in mid-March 2020.  Head Start and Early Head Start direct care staff and program managers worked remotely from home.  For the remainder of the Head Start school year all instruction was delivered remotely using various platforms.  Families without internet access received learning activities delivered to their front doors.  Program staff assisted with the delivery of meals to food insecure families.  Early Head Start children received weekly remote home visits and family resource workers maintained regular contact with the families on their caseloads.  Program managers conducted remote reflective supervision with their direct care staff.
+
+Undoubtedly, COVID 19 dramatically impacted the 2019-2020 school year.  Perhaps the success story of the year is the demonstrated capacity of this organization to adapt to changing circumstances and to continue to engage and support vulnerable children and families in new creative ways.
+
+For the last 10 weeks of the 2020 school year teachers and family service workers engaged children and families in remote e-learning activities.  The speed at which teachers transitioned from in-person instruction to e-learning was astounding.  Teachers researched virtual learning platforms and created on-line classrooms.  The learning curve for the delivery of remote instruction may have been helped by the teacher’s experimentation with virtual platform in support of her own school-age children’s e-learning.  Head Start teachers posted prescriptive learning activities on the Galileo Parent Center website and scheduled a check-in with their children students weekly.  EHS Home Visitors conducted weekly home visits using Face Time or other platforms.  Family Resource Workers reached out to their families weekly to learn if support services were needed and posted Ready Rosie parenting curricular activities via the Ready Rosie website.  Many families expressed gratitude for the weekly communication as they reported feeling isolated and fearful.  Program Managers facilitated reflective supervision sessions via telephone calls/Face Time to offer mental wellness supports and opportunities for staff to share their experiences.  Our Mental Health Consultant created a monthly calendar of activities for enrolled families to support emotional well-being.  Family Resource Workers worked with other community agencies to pack food boxes for distribution.  The commitment of lead Head Start and Early Head Start staff to preserve relationships with children and families during this period is both remarkable and commendable.
 
 <h4 class="subheader" id="early-childhood">EARLY CHILDHOOD VOCATIONAL EDUCATION</h4>
 Last year marked the 14th year of our collaboration with the North Central Area Vocational Cooperative and Ivy Tech College to offer junior and senior high school students a professional pathway for Early Childhood Education.  Upon successful completion of the two-year program the students earn 12 transferrable college credits and a Child Development Associate (CDA) credential.  Last year 32 students from five area high schools participated in the programs.
