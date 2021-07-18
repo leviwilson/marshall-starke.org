@@ -9,8 +9,8 @@ title:  "2020 Accomplishments (Children)"
 <dl class="tabs pill">
   <dd><a href="#early-childhood">Early Childhood</a></dd>
   <dd><a href="#parent-involvement">Parent Involvement</a></dd>
+  <dd><a href="#average-attendance">HS/EHS Enrollment</a></dd>
   <dd><a href="#child-outcome-data">Child Outcome Data</a></dd>
-  <dd><a href="#average-attendance">HS/EGS Enrollment</a></dd>
 </dl>
 
 The year 2020 witnessed a world-wide coronavirus pandemic.  The pandemic triggered the Governor’s Executive Order to stay at home.  Local and State health authorities curtailed in-person classes in mid-March 2020.  Head Start and Early Head Start direct care staff and program managers worked remotely from home.  For the remainder of the Head Start school year all instruction was delivered remotely using various platforms.  Families without internet access received learning activities delivered to their front doors.  Program staff assisted with the delivery of meals to food insecure families.  Early Head Start children received weekly remote home visits and family resource workers maintained regular contact with the families on their caseloads.  Program managers conducted remote reflective supervision with their direct care staff.
@@ -27,13 +27,6 @@ The programs offered a variety of in-person parent meetings before transitioning
 
 Every Head Start and Early Head Start family is assigned a Family Resource Worker (FSW).  The FSW possesses an extensive knowledge of community resources to link families with needed services.  The FRW uses a strength base approach, respectful and sensitive to diverse family lifestyles and systems, to facilitate parent engagement.  Head Start is the only two generational-program serving both the child and parent in the attainment of goals to promote well-being.  So often, the FSW serves as a critical source for support and comfort when crisis occurs.  An example of this critical support involved a Head Start mom confiding to her FRW that her husband told her to move out of their residence and to take the children with her.  The mom was panic stricken and on the brink of homelessness in the midst of the pandemic.  The FRW linked her with our community partners namely the Red Cross, Marshall County Trustee, Bowen Center and Marshall County Neighborhood Center for food, housing assistance and mental health services.  Fast forward to present time and the mom reports the couple have reunited and the children are doing well in school.
 
-<h4 class="subheader" id="child-outcome-data">CHILD OUTCOME DATA</h4>
-We looked at child outcome and school readiness data for Head Start Children eligible for a second year.  We wondered if the change from in-person to E-Learning in March 2020 resulted in learning loss.  The data shows that 95% of the returning children experienced no learning loss.  This commendable finding speaks to the commitment and expertise of our teachers to support children’s development and engage parents in their children’s learning.
-
-The third and last child outcome data checkpoint was completed in early March 2020 shortly before cancellation of in-person classes.  All enrolled Head Start and Early Head Start children made outstanding progress evidenced by on-going assessment data.  A comparison of data from the previous year with last year showed three times the number of Head Start children mastering alphabet recognition.  Intentionality of instruction may help to explain the outstanding outcome.  Teachers doubled down and intentionally focused on instructional activities and methods to rev-up letter recognition skill development; a critical precursor skill for reading.
-
-The final EHS outcome data checkpoint showed all children meeting age expectation across all developmental areas with the exception of one child with an IFSP.
-
 <h4 class="subheader" id="average-attendance">HEAD START/EARLY HEAD START ENROLLMENT AND AVERAGE ATTENDANCE</h4>
 The 2019 Annual Report captures on-going monitoring data to report patterns and trends.  The Head Start and Early Head Start programs maintained full enrollment throughout the 2019-2020 school year even when services transitioned to remote delivery.  Enrolled children receiving remote services were considered present and off-site for reporting purposes.  The average Head Start attendance for the year was 92%.
 
@@ -41,5 +34,20 @@ Head Start’s funded enrollment is 148 children ages three to five years of age
 
 The **Annual Audit** reported no concerns.
 
-**Health Outcomes**
+##### Health Outcomes
 All children’s health records are maintained electronically.  Therefore, we can readily retrieve date from previous program years.  By March 2020, prior to the stay-at-home order, 95% of children’s physicals were completed; 89% of dentals were completed and 99% of immunizations were determined to be up-to-date.:w
+
+<h4 class="subheader" id="child-outcome-data">CHILD OUTCOME DATA</h4>
+We looked at child outcome and school readiness data for Head Start Children eligible for a second year.  We wondered if the change from in-person to E-Learning in March 2020 resulted in learning loss.  The data shows that 95% of the returning children experienced no learning loss.  This commendable finding speaks to the commitment and expertise of our teachers to support children’s development and engage parents in their children’s learning.
+
+The third and last child outcome data checkpoint was completed in early March 2020 shortly before cancellation of in-person classes.  All enrolled Head Start and Early Head Start children made outstanding progress evidenced by on-going assessment data.  A comparison of data from the previous year with last year showed three times the number of Head Start children mastering alphabet recognition.  Intentionality of instruction may help to explain the outstanding outcome.  Teachers doubled down and intentionally focused on instructional activities and methods to rev-up letter recognition skill development; a critical precursor skill for reading.
+
+The final EHS outcome data checkpoint showed all children meeting age expectation across all developmental areas with the exception of one child with an IFSP.
+
+##### Preparation for Kindergarten
+The Marshall-Starke Head Start and Early Head Start programs take a comprehensive approach to prepare children for kindergarten.  The programs provide a variety of learning experiences to help children grow intellectually, socially, and emotionally.  Learning objectives are individualized to address each child’s unique needs.  The programs provide health services, either directly or by referral, including immunizations, dental, medical, mental health, nutritional services and early identification of health/learning concerns.  Transition activities engage parents in the planning process for their child’s entry into kindergarten.  These services help to prepare children and families for kindergarten and for success in life.
+
+##### Most Recent Review
+The Administration for Children and Families (ACF) conducted a Focus Area One (FA1) monitoring review of the Head Start and Early Head Start programs from March 09, 2020 to March 13, 2020.  The five-day FA1 Review allows the Office of Head Start to understand how programs are progressing in providing services in the five-year grant cycle.  The ACF Program Performance Summary Report found the programs to be in full compliance with all federal mandates and regulations in the delivery of quality outcomes for children and families.
+
+The in-house administration of the Classroom Assessment Scoring System used to evaluate the quality of teacher-student interactions reported scores in the high range across all measurable performance areas.  Four of the eight Head Start teachers are CLASS Reliable as is the Education Manager.
