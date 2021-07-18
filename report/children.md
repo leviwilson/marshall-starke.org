@@ -1,257 +1,53 @@
 ---
 layout: default
-title:  "2019 Accomplishments (Children)"
+title:  "2020 Accomplishments (Children)"
 ---
 {% include annual.report.breadcrumb %}
 
-## Children's Programs: Highlights and Accomplishments
+## Division of Children’s Services:  Head Start, Early Head Start and Early Childhood Vocational Education
 
 <dl class="tabs pill">
-  <dd><a href="#parent-satisfaction">Parent Satisfaction</a></dd>
   <dd><a href="#early-childhood">Early Childhood</a></dd>
-  <dd><a href="#performance">Performance Indicators</a></dd>
-  <dd><a href="#community-connections">Community Connections</a></dd>
+  <dd><a href="#parent-involvement">Parent Involvement</a></dd>
+  <dd><a href="#average-attendance">HS/EHS Enrollment</a></dd>
+  <dd><a href="#child-outcome-data">Child Outcome Data</a></dd>
 </dl>
 
-<h4 class="subheader" id="overview">CHILD OUTCOME DATA</h4>
-The mission of Marshall-Starke HS and EHS is to prepare children for success in kindergarten.  To provide the educational preparation expected by our local school systems and by the Office of Head Start, the programs collect and analyze child outcome data, including progress toward attainment of school readiness goals, four times per year at approximately 12 week intervals.  The data is used to evaluate patterns of performance across the program and to individualize instruction for each student based on the child's strengths and needs.  Outcome data drives instruction and decision making.
+The year 2020 witnessed a world-wide coronavirus pandemic.  The pandemic triggered the Governor’s Executive Order to stay at home.  Local and State health authorities curtailed in-person classes in mid-March 2020.  Head Start and Early Head Start direct care staff and program managers worked remotely from home.  For the remainder of the Head Start school year all instruction was delivered remotely using various platforms.  Families without internet access received learning activities delivered to their front doors.  Program staff assisted with the delivery of meals to food insecure families.  Early Head Start children received weekly remote home visits and family resource workers maintained regular contact with the families on their caseloads.  Program managers conducted remote reflective supervision with their direct care staff.
 
-Outcome data are shared with local school principals for children who will enter their kindergarten classrooms.  The data show the percentage of children at the intermediate and advanced level.
+Undoubtedly, COVID 19 dramatically impacted the 2019-2020 school year.  Perhaps the success story of the year is the demonstrated capacity of this organization to adapt to changing circumstances and to continue to engage and support vulnerable children and families in new creative ways.
 
-A comparative analysis of approximately 35,000 HS children reported children enrolled in Marshall-Starke HS surpassed state and national averages of other HS children in all areas:  Math, Motor, Language, Logic and Reasoning, Approaches to Learning, Social Studies, Science, Social and Emotional, and Creative Arts.  Approximately 96% of the HS children eligible for entry into kindergarten achieved the designated school readiness goals.
-
-<h4 class="subheader" id="parent-satisfaction">PARENT SATISFACTION SURVEYS AND FAMILY OUTCOMES</h4>
-Eighty-Five (85) percent of families successfully completed self identified goals.  End of year surveys reported 100% parent satisfaction around Head Start and Early Head Start experiences.  Parent comments included:
-
-> _"Everything I experienced throughout the year was positive and helpful”_
-
-> _"I would not change anything about the program it's wonderful"_
-
-> _"I feel they really care about children"_
-
-> _"Every day I talk with the teacher about how my child is doing"_
-
-> _"I feel my child is learning a lot and is more social with other kids. The staff is amazing with my son and me, especially if I have a question on anything"_
-
-> _"Love this school.  Very family oriented. They want parents to participate"_
-
-> _"My home visitor gives me plenty of ideas and different ways to teach my children.  She provided me with information about child care and my baby's health.  It helps me understand the growing process and gives me a safe place to express my thoughts and concerns."_
+For the last 10 weeks of the 2020 school year teachers and family service workers engaged children and families in remote e-learning activities.  The speed at which teachers transitioned from in-person instruction to e-learning was astounding.  Teachers researched virtual learning platforms and created on-line classrooms.  The learning curve for the delivery of remote instruction may have been helped by the teacher’s experimentation with virtual platform in support of her own school-age children’s e-learning.  Head Start teachers posted prescriptive learning activities on the Galileo Parent Center website and scheduled a check-in with their children students weekly.  EHS Home Visitors conducted weekly home visits using Face Time or other platforms.  Family Resource Workers reached out to their families weekly to learn if support services were needed and posted Ready Rosie parenting curricular activities via the Ready Rosie website.  Many families expressed gratitude for the weekly communication as they reported feeling isolated and fearful.  Program Managers facilitated reflective supervision sessions via telephone calls/Face Time to offer mental wellness supports and opportunities for staff to share their experiences.  Our Mental Health Consultant created a monthly calendar of activities for enrolled families to support emotional well-being.  Family Resource Workers worked with other community agencies to pack food boxes for distribution.  The commitment of lead Head Start and Early Head Start staff to preserve relationships with children and families during this period is both remarkable and commendable.
 
 <h4 class="subheader" id="early-childhood">EARLY CHILDHOOD VOCATIONAL EDUCATION</h4>
-Now in its 16th year, in partnership with the Northern Central Area Vocational Collaborative, the Early Childhood Vocational Education Program provides instruction and field experience for junior and senior high school students interested in pursuing a professional career in Early Childhood Education.  The course is available to students attending 10 area high schools.  Since its inception over 335 students have completed the Early Childhood Vocational Education Program.
+Last year marked the 14th year of our collaboration with the North Central Area Vocational Cooperative and Ivy Tech College to offer junior and senior high school students a professional pathway for Early Childhood Education.  Upon successful completion of the two-year program the students earn 12 transferrable college credits and a Child Development Associate (CDA) credential.  Last year 32 students from five area high schools participated in the programs.
 
-The students receive in-class instruction supplemented with direct vocational experience in Head Start, and public and private childcare homes and centers, and Kindergarten classrooms.  Students may ear six transferrable college credits the first year and three additional college credits the second year for a total of nine college credits.  The college credits are issued by Indian Ivy Tech College.  The majority of students who complete the Early Childhood Vocational Education pursue post secondary education.  This partnership affords the students vocational experience in the field of ECE while benefiting Head Start children with individual attention and interaction
+<h4 class="subheader" id="parent-involvement">PARENT INVOLVEMENT AND FAMILY ENGAGEMENT</h4>
+The programs offered a variety of in-person parent meetings before transitioning to virtual parent engagement.  In-person engagement events included a four-part series on Adult Resiliency conducted by our licensed Mental Health Consultant.  Other in-person family engagement activities included a nature walk, block party, book exchange, Reading with Dad, and Chocolate and Canvas for Moms.  Beginning in March the Family Resource Workers maintained ongoing contact with families by telephone, text, email, Face-Time, and drive-byes.
 
-Our Head Start Program employs three graduates of the Childhood Vocational Education Program who completed college degrees in Early Childhood Education.
+Every Head Start and Early Head Start family is assigned a Family Resource Worker (FSW).  The FSW possesses an extensive knowledge of community resources to link families with needed services.  The FRW uses a strength base approach, respectful and sensitive to diverse family lifestyles and systems, to facilitate parent engagement.  Head Start is the only two generational-program serving both the child and parent in the attainment of goals to promote well-being.  So often, the FSW serves as a critical source for support and comfort when crisis occurs.  An example of this critical support involved a Head Start mom confiding to her FRW that her husband told her to move out of their residence and to take the children with her.  The mom was panic stricken and on the brink of homelessness in the midst of the pandemic.  The FRW linked her with our community partners namely the Red Cross, Marshall County Trustee, Bowen Center and Marshall County Neighborhood Center for food, housing assistance and mental health services.  Fast forward to present time and the mom reports the couple have reunited and the children are doing well in school.
 
-<table class="responsive">
-  <thead>
-    <tr>
-      <th>Number of Enrollees</th>
-      <th>HS</th>
-      <th>EHS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Income below 100% of federal poverty</td>
-      <td>87</td>
-      <td>38</td>
-    </tr>
-    <tr>
-      <td>Receipt of Public Assistance</td>
-      <td>12</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>Status as Foster Care</td>
-      <td>16</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Over Income</td>
-      <td>13</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Homeless</td>
-      <td>1</td>
-      <td>2</td>
-    </tr>
-    <tr><td><strong>Primary Language</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>English</td>
-      <td>155</td>
-      <td>58</td>
-    </tr>
-    <tr>
-      <td>Spanish</td>
-      <td>16</td>
-      <td>11</td>
-    </tr>
-    <tr><td><strong>Ethnicity</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>Hispanic or Latin Origin</td>
-      <td>32</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Non-Hispanic or Latin Origin</td>
-      <td>122</td>
-      <td>51</td>
-    </tr>
-    <tr>
-      <td>Other</td>
-      <td>17</td>
-      <td>2</td>
-    </tr>
-    <tr><td><strong>Families</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>Number of Families</td>
-      <td>171</td>
-      <td>69</td>
-    </tr>
-    <tr>
-      <td>Two Parent Families</td>
-      <td>113</td>
-      <td>59</td>
-    </tr>
-    <tr>
-      <td>Single Parent Families</td>
-      <td>58</td>
-      <td>10</td>
-    </tr>
-    <tr><td><strong>Employment (At Time of Enrollment)</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr><td><strong>Percentage of Two Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>One or Both Parents Employed</td>
-      <td>83%</td>
-      <td>22%</td>
-    </tr>
-    <tr><td><strong>Percentage of Single Parent Families with:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>Parent Employed</td>
-      <td>60%</td>
-      <td>59%</td>
-    </tr>
-    <tr>
-      <td colspan="3"><em>Seventy-Three (73) percent of our Head Start families and 44% of our Early Head Start families have a parent who graduated from high school.</em></td>
-    </tr>
-    <tr><td><strong>Number of Volunteers by type:</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr>
-    <tr>
-      <td>Parent / Relative</td>
-      <td>218</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>Community Volunteers</td>
-      <td>258</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
+<h4 class="subheader" id="average-attendance">HEAD START/EARLY HEAD START ENROLLMENT AND AVERAGE ATTENDANCE</h4>
+The 2019 Annual Report captures on-going monitoring data to report patterns and trends.  The Head Start and Early Head Start programs maintained full enrollment throughout the 2019-2020 school year even when services transitioned to remote delivery.  Enrolled children receiving remote services were considered present and off-site for reporting purposes.  The average Head Start attendance for the year was 92%.
 
+Head Start’s funded enrollment is 148 children ages three to five years of age.  Funded enrollment for Early Head Start is 40 infants and toddlers inclusive of pregnant women.  The culminative enrollment totaled 252 children zero to five years of age.  The program served 29% of the eligible children zero to five years of age residing in the service area.
 
-<h4 class="subheader" id="performance">HEAD START &amp; EARLY HEAD START PERFORMANCE INDICATORS</h4>
+The **Annual Audit** reported no concerns.
 
-<table class="responsive">
-  <thead>
-    <tr>
-      <th>Performance Indicators</th>
-      <th>Head Start</th>
-      <th>Early Head Start</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Funded Enrollment</td>
-      <td>148</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <td>Cumulative Enrollment</td>
-      <td>171</td>
-      <td>64</td>
-    </tr>
-    <tr>
-      <td>Number of EHS Pregnant Women</td>
-      <td>N/A</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>Total Number of Children with a Disability</td>
-      <td>18</td>
-      <td>13</td>
-    </tr>
-    <tr>
-      <td>Percentage of children with a continuous source of preventive medical and dental care.</td>
-      <td>100%</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>Percentage of children with up-to-date immunizations, all possible immunizations to date</td>
-      <td>97%</td>
-      <td>92%</td>
-    </tr>
-    <tr>
-      <td>The percentage of children diagnosed with a chronic health condition who received medical treatment</td>
-      <td>100%</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>Percentage of families experiencing homelessness</td>
-      <td>0%</td>
-      <td>0%</td>
-    </tr>
-    <tr>
-      <td>Average Monthly Attendance</td>
-      <td>89%</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>Percentage of pregnant women who received prenatal care</td>
-      <td>N/A</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>Percentage of pregnant women who received postpartum health care</td>
-      <td>N/A</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>Percentage of children who are up-to-date on a schedule of age appropriate preventive oral health care.</td>
-      <td>100%</td>
-      <td>100%</td>
-    </tr>
-  </tbody>
-</table>
+##### Health Outcomes
+All children’s health records are maintained electronically.  Therefore, we can readily retrieve date from previous program years.  By March 2020, prior to the stay-at-home order, 95% of children’s physicals were completed; 89% of dentals were completed and 99% of immunizations were determined to be up-to-date.:w
 
-The program's health outcomes surpass State and Federal percentages.
+<h4 class="subheader" id="child-outcome-data">CHILD OUTCOME DATA</h4>
+We looked at child outcome and school readiness data for Head Start Children eligible for a second year.  We wondered if the change from in-person to E-Learning in March 2020 resulted in learning loss.  The data shows that 95% of the returning children experienced no learning loss.  This commendable finding speaks to the commitment and expertise of our teachers to support children’s development and engage parents in their children’s learning.
 
-<h4 class="subheader" id="family-engagement">FAMILY ENGAGEMENT</h4>
-The programs provided numerous opportunities for family engagement.  Father-Reads, nature walks, pumpkin patch visit, Mother's Tea Party, family stories and craft projects are only a few of the family events.
+The third and last child outcome data checkpoint was completed in early March 2020 shortly before cancellation of in-person classes.  All enrolled Head Start and Early Head Start children made outstanding progress evidenced by on-going assessment data.  A comparison of data from the previous year with last year showed three times the number of Head Start children mastering alphabet recognition.  Intentionality of instruction may help to explain the outstanding outcome.  Teachers doubled down and intentionally focused on instructional activities and methods to rev-up letter recognition skill development; a critical precursor skill for reading.
 
-**Marshall-Starke Early Head Start (EHS)** established school readiness goals that recognize the impact of early experiences on brain development.  The EHS school readiness goals acknowledge how early experiences, particularly the relationship created jointly by baby and parent(s), shape the foundational learning structures of the brain.  The school readiness goals are relationship based and relate to early developmental milestones.  The last analysis of school readiness data showed the majority of children attained age appropriate expectations.
+The final EHS outcome data checkpoint showed all children meeting age expectation across all developmental areas with the exception of one child with an IFSP.
 
-Because supporting children's readiness is an ongoing partnership between staff and families the program implemented the Parent, Family, Community Engagement Framework.  The Framework is a tool for engaging families and supporting children's ongoing learning and development.  The role of parents in their child's education should not be understated.  Parent engagement is considered by this program to be a school readiness goal.  The program successfully achieved 100% parent participation in parent-teacher conferences and initial home visits.
+##### Preparation for Kindergarten
+The Marshall-Starke Head Start and Early Head Start programs take a comprehensive approach to prepare children for kindergarten.  The programs provide a variety of learning experiences to help children grow intellectually, socially, and emotionally.  Learning objectives are individualized to address each child’s unique needs.  The programs provide health services, either directly or by referral, including immunizations, dental, medical, mental health, nutritional services and early identification of health/learning concerns.  Transition activities engage parents in the planning process for their child’s entry into kindergarten.  These services help to prepare children and families for kindergarten and for success in life.
 
-<h4 class="subheader" id="community-connections">COMMUNITY CONNECTIONS</h4>
-The programs rely on the support and participation of community partners.  Partnership relationships exist with the following agencies; WIC, Local School Corporations, Healthy Families, Neighborhood Center, Department of Children Services, Salvation Army, Care and Share, Community Services of Starke County, Love Inc., Bella Vita, J.E.S.S.E., North Central Area Vocational Cooperative, and Council on Aging, Bremen Schools, Marshall County Child Protection Team and Medwise.
+##### Most Recent Review
+The Administration for Children and Families (ACF) conducted a Focus Area One (FA1) monitoring review of the Head Start and Early Head Start programs from March 09, 2020 to March 13, 2020.  The five-day FA1 Review allows the Office of Head Start to understand how programs are progressing in providing services in the five-year grant cycle.  The ACF Program Performance Summary Report found the programs to be in full compliance with all federal mandates and regulations in the delivery of quality outcomes for children and families.
 
-<h4 class="subheader" id="monitoring-outcomes">MONITORING OUTCOMES</h4>
-Our programs were not scheduled for a monitoring event in 2019. Internal monitoring of CLASS scores reported averages above the national highest 10 percent in Instructional Support.   Four of our Head Start teachers completed certification and achieved CLASS reliability.
-
-All local and state fire, health, and sanitation inspections reported no concerns.  The results of the most recent financial audit expressed "an unqualified opinion on all major federal programs" with "no instance of noncompliance material, qualifying MSDC as a low risk auditee."  All facilities meet childcare licensing requirements.  Our Head Start program completed Level III paths to Quality signifying excellence in curriculum, staff relations and training.
-
-<h5 class="subheader" id="child-outcome-data">CHILDREN’S PROGRAMS:  HIGHLIGHTS &amp; ACCOMPLISHMENTS</h5>
-The Division of Children's Services is composed of three principle programs:  Head Start, Early Head Start and Early Childhood Vocational Education.
-
-Our Head Start and Early Head Start programs provide children and their families with education, health, nutrition, and social services.  Services are responsive to each child's and family's ethnic, cultural, and linguistic heritage.
-
-Head Start for children 3-5 years of age supports parents as their child's first and most important teachers.  Head Start builds relationships with families that support positive parent-child interactions, family well-being, and connections to peers and community.
-
-Early Head Start serves pregnant women, infants, and toddlers.  Early Head Start helps families care for their infants and toddlers through early, continuous, intensive, and comprehensive services.
-
-Our Head Start (HS) and Early Head Start (EHS) programs may serve a combined total of 188 childern 0-5 years of age inclusive of pregnant women,  Our service area is comprised of Marshall and Starke Counties.
-
-Marshall-Starke HS and EHS maintained active waitlists.  Unfortunately, not all children on the waitlists were offered enrollment opportunities due to the requirement not to exceed at any one time the funded enrollment of 180 children.  Based on the most recent data from the American Community Survey the estimated number of eligible HS and EHS children for our service area is 865.  In 2019 the programs' combined cumulative enrollment was 245 children.  Twenty-Eight (28) percent of the total number of eligible children were served by Marshall-Starke HS and EHS.  Average daily attendance was eighty-six (86) percent.
+The in-house administration of the Classroom Assessment Scoring System used to evaluate the quality of teacher-student interactions reported scores in the high range across all measurable performance areas.  Four of the eight Head Start teachers are CLASS Reliable as is the Education Manager.
