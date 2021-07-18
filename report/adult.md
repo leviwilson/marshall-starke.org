@@ -36,9 +36,9 @@ We are pleased to be able to provide door-to-door transportation to/from our cen
 MSDC offers Employment Services to individuals with disabilities that are seeking community employment.  Current enrollment in this program is 25 individuals.  Our four Employment Services staff’s goals are to prepare, obtain and retain work for individuals in community jobs.  Most consumers will need on the job supports for a period of time, and then perhaps a small amount of follow-along support after the person is stabilized in a job. In 2016, MSDC applied for, and received the Establishment Project, which is a four-year financial assistance program developed by Vocational Rehabilitation to assist agencies increase the quality, quantity and intensity of employment services.  The finances from the Establishment Project enabled MSDC to promote one employment staff and hire an additional staff for Employment Services.  Since 2016, our enrollment has fluctuated between 20-26 enrollees.  In 2019, MSDC entered our 3rd year of the Establishment Project.  Each year, the amount of Establishment Project contribution is reduced and will end at the conclusion of year 4.
 
 <h4 class="subheader" id="employment">COMMUNITY EMPLOYMENT SERVICES</h4>
-MSDC is in the 3rd year of a four year contract in which we receive assistance with staff wages from the Establishment Project.  We are grateful that the Establishment Project has helped fund our supported employment program and I am happy to report that we are beginning to see increases in referrals over the past year.
+MSDC is in the 4th year of a four-year contract in which we receive assistance with staff wages from the Establishment Project.  We are grateful that the Establishment Project has helped fund our supported employment program and I am happy to report that we are beginning to see increases in referrals over the past year.
 
-In FY'2019, 45 Individuals were served in Marshall-Starke Development Center's Community Employment Services. The majority of individuals were residents of Marshall and Starke County, followed by Fulton County.
+In FY’ 2020, 59 individuals were served in Marshall-Starke Development Center’s Community Employment Services.  The majority of individuals were residents of Marshall and Starke County, followed by Fulton County.
 
 <table class="responsive">
     <thead>
@@ -50,11 +50,11 @@ In FY'2019, 45 Individuals were served in Marshall-Starke Development Center's C
     <tbody>
       <tr>
           <td>Average Hourly Wage</td>
-          <td>$8.99</td>
+          <td>$12.68</td>
       </tr>
       <tr>
           <td>Placements</td>
-          <td>19</td>
+          <td>20</td>
       </tr>
     </tbody>
 </table>
