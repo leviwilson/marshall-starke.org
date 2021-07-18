@@ -10,7 +10,7 @@ title:  "2020 Financial Information"
 
 {% include revenue.sources.2020 %}
 
-{% include expenses.2019 %}
+{% include expenses.2020 %}
 
 <script src="//code.highcharts.com/highcharts.js"></script>
 <script src="//code.highcharts.com/modules/exporting.js"></script>
