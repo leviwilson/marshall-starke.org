@@ -72,5 +72,11 @@ In FYâ€™ 2020, 59 individuals were served in Marshall-Starke Development Centerâ
 * Culver Academy
 * LifePlex
 * AK Industries
-* C J Poly
 * First Federal Bank
+* Autumn Trace
+* Pretzels
+* Kountry Kettle
+* Oasis
+* Knox Community Schools
+* Bell-Mart
+* Black Gold
