@@ -1,0 +1,51 @@
+<div id="revenues-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+var chart;
+
+$(document).ready(function () {
+
+  // Build the chart
+    chart = new Highcharts.Chart({
+        chart: {
+            renderTo: 'revenues-container',
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: '2020 Revenues'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.value}</b>',
+          percentageDecimals: 1
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    formatter:  function() {
+                      return '<b>' + this.point.name + '</b><br/>' + this.point.value;
+                    }
+                },
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: '2020 Revenues',
+            data: [
+              { name: 'Other', y: 10.47, value: '$705,918' },
+              { name: 'Program Services', y: 54.6, value: '$3,682,098' },
+              { name: 'Public Support', y: 4.55, value: '$306,620' },
+              { name: 'USDA', y: 1.17, value: '$78,681' },
+              { name: 'HS/EHS', y: 32.61, value: '$2,045,336' }
+            ]
+        }]
+    });
+});
+
+});
+</script>

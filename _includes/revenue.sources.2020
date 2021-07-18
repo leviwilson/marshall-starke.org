@@ -1,0 +1,49 @@
+<div id="revenue-sources-container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+<script type="text/javascript">
+$(function () {
+var chart;
+
+$(document).ready(function () {
+
+  // Build the chart
+    chart = new Highcharts.Chart({
+        chart: {
+            renderTo: 'revenue-sources-container',
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: 'Revenue Sources'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.value}</b>',
+          percentageDecimals: 1
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    formatter:  function() {
+                      return '<b>' + this.point.name + '</b><br/>' + this.point.value;
+                    }
+                },
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Revenue Sources',
+            data: [
+              { name: 'State / Local Government', y: 57.24, value: '$3,860,098' },
+              { name: 'Federal Government', y: 30.39, value: '$2,049,525' },
+              { name: 'Other', y: 12.37, value: '$834,538' }
+            ]
+        }]
+    });
+});
+
+});
+</script>
