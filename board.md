@@ -18,7 +18,6 @@ title:  Board & Management
     <li>Alison Murphy</li>
     <li>Emily King</li>
     <li>Nelson Chipman</li>
-    <li>Emily Hutsell</li>
     <li>Melinda Straeter</li>
   </ul>
 </div>
