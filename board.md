@@ -26,10 +26,10 @@ title:  Board & Management
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Management</h3>
   <ul>
-    <li>Jodie Smith, President/C.E.O.</li>
-    <li>Dan Haenes, Vice President/C.F.O.</li>
+    <li>Danny Haenes, President/C.E.O.</li>
+    <li>Johann Bauer, C.F.O.</li>
     <li>Jane Pollitt, Vice President Children's Programs</li>
     <li>Pam Landesman, Vice President Adult Programs</li>
-    <li>Sandy Olejniczak, VP of Residential Services</li>
+    <li>Carrie Schadek, VP of Residential Services</li>
   </ul>
 </div>
