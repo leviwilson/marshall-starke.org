@@ -25,7 +25,7 @@ title:  Board & Management
 <div class="six columns">
   <h3 class="subheader">Marshall-Starke Management</h3>
   <ul>
-    <li>Danny Haenes, President/C.E.O.</li>
+    <li>Rick Thompson, President/C.E.O.</li>
     <li>Johann Bauer, C.F.O.</li>
     <li>Jane Pollitt, Vice President Children's Programs</li>
     <li>Pam Landesman, Vice President Adult Programs</li>
