@@ -15,7 +15,7 @@ end
 
 desc 'deploy'
 task :deploy do
-  puts `s3_website push`
+  puts `s3_website push --verbose`
 end
 
 def production?
